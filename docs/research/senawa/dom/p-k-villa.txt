@@ -1,0 +1,330 @@
+<button .Nav-module__bLoQaq__searchClose>
+  <span>
+<div .Nav-module__bLoQaq__searchWrap>
+  <div .Nav-module__bLoQaq__searchField>
+    <svg .Nav-module__bLoQaq__searchFieldIcon>
+    <circle>
+  <line>
+<input .Nav-module__bLoQaq__searchInput>
+<p .visually-hidden>
+<div .Nav-module__bLoQaq__searchContent>
+  <div .Nav-module__bLoQaq__searchListbox>
+    <div .Nav-module__bLoQaq__searchGroup>
+      <div .Nav-module__bLoQaq__searchSectLabel>
+        <span .Nav-module__bLoQaq__searchLbl>
+          TXT: Featured
+      <a .Nav-module__bLoQaq__searchItem . href=/work/aa-house>
+        <span .Nav-module__bLoQaq__searchArrow>
+          TXT: →
+        <span .Nav-module__bLoQaq__searchItemTitle>
+          TXT: AA House
+          <span .Nav-module__bLoQaq__searchItemLoc>
+            TXT: Bintaro
+        <span .Nav-module__bLoQaq__searchItemMeta>
+          TXT: Residential
+          TXT: !-- --
+          TXT: ·
+          TXT: !-- --
+          TXT: 2025
+      <a .Nav-module__bLoQaq__searchItem . href=/work/louver-house>
+        <span .Nav-module__bLoQaq__searchArrow>
+          TXT: →
+        <span .Nav-module__bLoQaq__searchItemTitle>
+          TXT: Louver House
+          <span .Nav-module__bLoQaq__searchItemLoc>
+            TXT: Giriloka
+        <span .Nav-module__bLoQaq__searchItemMeta>
+          TXT: Residential
+          TXT: !-- --
+          TXT: ·
+          TXT: !-- --
+          TXT: 2024
+      <a .Nav-module__bLoQaq__searchItem . href=/work/nsb-ps>
+        <span .Nav-module__bLoQaq__searchArrow>
+          TXT: →
+        <span .Nav-module__bLoQaq__searchItemTitle>
+          TXT: NSB PS
+          <span .Nav-module__bLoQaq__searchItemLoc>
+            TXT: Plaza Senayan
+        <span .Nav-module__bLoQaq__searchItemMeta>
+          TXT: Commercial
+          TXT: !-- --
+          TXT: ·
+          TXT: !-- --
+          TXT: 2024
+  <div .Nav-module__bLoQaq__searchGroup>
+    <div .Nav-module__bLoQaq__searchSectLabel>
+      <span .Nav-module__bLoQaq__searchLbl>
+        TXT: Browse by type
+    <div .Nav-module__bLoQaq__searchTypeWrap>
+      <button .Nav-module__bLoQaq__searchTypeCell>
+        <span .Nav-module__bLoQaq__searchTypeName>
+          TXT: Residential
+        <span .Nav-module__bLoQaq__searchTypeCount>
+          TXT: 07
+      <button .Nav-module__bLoQaq__searchTypeCell>
+        <span .Nav-module__bLoQaq__searchTypeName>
+          TXT: Commercial
+        <span .Nav-module__bLoQaq__searchTypeCount>
+          TXT: 01
+<div .Nav-module__bLoQaq__searchLegend>
+  <span .Nav-module__bLoQaq__searchLegendItem>
+    <kbd .Nav-module__bLoQaq__kbd>
+      TXT: ↑
+    <kbd .Nav-module__bLoQaq__kbd>
+      TXT: ↓
+    <b>
+      TXT: Navigate
+  <span .Nav-module__bLoQaq__searchLegendItem>
+    <kbd .Nav-module__bLoQaq__kbd>
+      TXT: ↵
+    <b>
+      TXT: Open
+  <span .Nav-module__bLoQaq__searchLegendItem>
+    <kbd .Nav-module__bLoQaq__kbd>
+      TXT: esc
+    <b>
+      TXT: Close
+<div>
+  <main>
+    <div .page-module__Ro7qTW__detail>
+      <aside .page-module__Ro7qTW__rail>
+        <div .page-module__Ro7qTW__railTop>
+          <a .page-module__Ro7qTW__railLogo href=/>
+            <svg>
+            <path>
+      <div .page-module__Ro7qTW__railUtility>
+        <nav .page-module__Ro7qTW__breadcrumb>
+          <a href=/work>
+            TXT: Work
+          <span .page-module__Ro7qTW__bcSlash>
+            TXT: /
+          <span>
+            TXT: Residential
+        <button .page-module__Ro7qTW__railMenu>
+          TXT: Menu
+    <div .page-module__Ro7qTW__railTitleBlock>
+      <h1 .page-module__Ro7qTW__railTitle>
+        TXT: K Villa
+      <span .page-module__Ro7qTW__railSub>
+        TXT: 2025
+        TXT: !-- --
+        TXT: |
+        TXT: !-- --
+        TXT: Residential
+    <dl .page-module__Ro7qTW__railMeta>
+      <div .page-module__Ro7qTW__railMetaItem>
+        <dt .page-module__Ro7qTW__railMetaLabel>
+          TXT: Year
+        <dd .page-module__Ro7qTW__railMetaValue>
+          TXT: 2025
+      <div .page-module__Ro7qTW__railMetaItem>
+        <dt .page-module__Ro7qTW__railMetaLabel>
+          TXT: Area
+        <dd .page-module__Ro7qTW__railMetaValue>
+          TXT: 800 m²
+      <div .page-module__Ro7qTW__railMetaItem>
+        <dt .page-module__Ro7qTW__railMetaLabel>
+          TXT: Location
+        <dd .page-module__Ro7qTW__railMetaValue>
+          TXT: Ubud, Bali
+      <div .page-module__Ro7qTW__railMetaItem>
+        <dt .page-module__Ro7qTW__railMetaLabel>
+          TXT: Status
+        <dd .page-module__Ro7qTW__railMetaValue>
+          TXT: Completed
+  <div .page-module__Ro7qTW__content>
+    <section .page-module__Ro7qTW__heroSection>
+      <div .FadeImage-module__MlDS8a__wrapper .FadeImage-module__MlDS8a__fill .>
+        <div .FadeImage-module__MlDS8a__placeholder>
+        <img .FadeImage-module__MlDS8a__image style=position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;color:tra>
+    <dl .page-module__Ro7qTW__metaMobile>
+      <div .page-module__Ro7qTW__railMetaItem>
+        <dt .page-module__Ro7qTW__railMetaLabel>
+          TXT: Year
+        <dd .page-module__Ro7qTW__railMetaValue>
+          TXT: 2025
+      <div .page-module__Ro7qTW__railMetaItem>
+        <dt .page-module__Ro7qTW__railMetaLabel>
+          TXT: Area
+        <dd .page-module__Ro7qTW__railMetaValue>
+          TXT: 800 m²
+      <div .page-module__Ro7qTW__railMetaItem>
+        <dt .page-module__Ro7qTW__railMetaLabel>
+          TXT: Location
+        <dd .page-module__Ro7qTW__railMetaValue>
+          TXT: Ubud, Bali
+      <div .page-module__Ro7qTW__railMetaItem>
+        <dt .page-module__Ro7qTW__railMetaLabel>
+          TXT: Status
+        <dd .page-module__Ro7qTW__railMetaValue>
+          TXT: Completed
+    <section .page-module__Ro7qTW__overview>
+      <div .page-module__Ro7qTW__overviewText>
+        <div style=--sr-y:24px;--sr-delay:0ms>
+          <div .page-module__Ro7qTW__overviewYear>
+            <span .page-module__Ro7qTW__overviewYearLabel>
+              TXT: Year
+            <span .page-module__Ro7qTW__overviewYearValue>
+              TXT: 2025
+        <div style=--sr-y:30px;--sr-delay:80ms>
+          <div .page-module__Ro7qTW__overviewBody>
+            <p>
+              TXT: Nestled in the lush landscape of Ubud, the villa is designed around its most remarkable asset: uninterrupted views toward the rice terraces and river valley below. The architecture opens itself toward
+            <p>
+              TXT: Rather than competing with nature, the villa acts as a quiet frame for the scenery beyond. Large openings, shaded terraces, and an infinity pool are positioned to strengthen the connection between int
+            <p>
+              TXT: The concept balances openness with a sense of grounding. While the architecture reaches toward the horizon, its materiality stays rooted in place, with exposed solid timber, traditional shingle roofin
+            <p>
+              TXT: Responding to Bali&#x27;s tropical climate, deep overhangs, natural ventilation, and generous semi-outdoor spaces blur the boundary between inside and outside, letting light, air, and nature move free
+        <div style=--sr-y:30px;--sr-delay:140ms>
+          <div .page-module__Ro7qTW__overviewThumbs>
+            <div .page-module__Ro7qTW__overviewThumb>
+              <div .FadeImage-module__MlDS8a__wrapper . . style=aspect-ratio:1/1>
+                <div .FadeImage-module__MlDS8a__placeholder>
+                <img .FadeImage-module__MlDS8a__image style=position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;color:tra>
+            <div .page-module__Ro7qTW__overviewThumb>
+              <div .FadeImage-module__MlDS8a__wrapper . . style=aspect-ratio:1/1>
+                <div .FadeImage-module__MlDS8a__placeholder>
+                <img .FadeImage-module__MlDS8a__image style=position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;color:tra>
+            <div .page-module__Ro7qTW__overviewThumb>
+              <div .FadeImage-module__MlDS8a__wrapper . . style=aspect-ratio:1/1>
+                <div .FadeImage-module__MlDS8a__placeholder>
+                <img .FadeImage-module__MlDS8a__image style=position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;color:tra>
+      <div .page-module__Ro7qTW__overviewImage>
+        <section .PortraitCarousel-module__2ZasNG__carousel>
+          <div .PortraitCarousel-module__2ZasNG__stage>
+            <div .PortraitCarousel-module__2ZasNG__frame>
+              <img .PortraitCarousel-module__2ZasNG__frameImg style=position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;color:tra>
+            <div .PortraitCarousel-module__2ZasNG__frame>
+              <img .PortraitCarousel-module__2ZasNG__frameImg style=position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;color:tra>
+            <div .PortraitCarousel-module__2ZasNG__frame>
+            <div .PortraitCarousel-module__2ZasNG__frame>
+            <div .PortraitCarousel-module__2ZasNG__frame>
+          <div .PortraitCarousel-module__2ZasNG__srStatus>
+            TXT: Image
+            TXT: !-- --
+            TXT: !-- --
+            TXT: 1
+            TXT: !-- --
+            TXT: of
+            TXT: !-- --
+            TXT: 5
+          <div .PortraitCarousel-module__2ZasNG__controls>
+            <button .PortraitCarousel-module__2ZasNG__arrow>
+              TXT: ‹
+            <span .PortraitCarousel-module__2ZasNG__counter>
+              TXT: 01
+              TXT: !-- --
+              TXT: /
+              TXT: !-- --
+              TXT: 05
+            <button .PortraitCarousel-module__2ZasNG__arrow>
+              TXT: ›
+<section .WorkGallery-module___2mu1W__gallery>
+  <div .WorkGallery-module___2mu1W__stage>
+    <div .WorkGallery-module___2mu1W__frame>
+      <img .WorkGallery-module___2mu1W__frameImg style=position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;color:tra>
+    <div .WorkGallery-module___2mu1W__frame>
+      <img .WorkGallery-module___2mu1W__frameImg style=position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;color:tra>
+  <div .WorkGallery-module___2mu1W__srStatus>
+    TXT: Image
+    TXT: !-- --
+    TXT: !-- --
+    TXT: 1
+    TXT: !-- --
+    TXT: of
+    TXT: !-- --
+    TXT: 2
+  <div .WorkGallery-module___2mu1W__filmstrip>
+    <button .WorkGallery-module___2mu1W__arrow>
+      TXT: ‹
+    <div .WorkGallery-module___2mu1W__thumbs>
+      <button .WorkGallery-module___2mu1W__thumb>
+        <img .WorkGallery-module___2mu1W__thumbImg style=position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;color:tra>
+      <button .WorkGallery-module___2mu1W__thumb>
+        <img .WorkGallery-module___2mu1W__thumbImg style=position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;color:tra>
+    <button .WorkGallery-module___2mu1W__arrow>
+      TXT: ›
+<nav .page-module__Ro7qTW__detailNav>
+  <a .page-module__Ro7qTW__detailNavAll href=/work>
+    TXT: ← All work
+  <a .page-module__Ro7qTW__detailNavNext href=/work/aa-house>
+    <span .page-module__Ro7qTW__detailNavLabel>
+      TXT: Next project
+    <span .page-module__Ro7qTW__detailNavTitle>
+      TXT: AA House
+TXT: !--$--
+TXT: !--/$--
+<footer .Footer-module__Grjkva__footer>
+  <div .Footer-module__Grjkva__inner>
+    <div .Footer-module__Grjkva__cta>
+      <div .Footer-module__Grjkva__ctaText>
+        <span .Footer-module__Grjkva__kicker>
+          TXT: Start a project
+        <a .Footer-module__Grjkva__ctaLink href=/contact>
+          <span>
+            TXT: Tell us about your site
+          <svg .Footer-module__Grjkva__ctaArrow>
+          <path>
+  <span .Footer-module__Grjkva__markWrap>
+    <svg>
+    <path>
+<div .Footer-module__Grjkva__rule>
+<div .Footer-module__Grjkva__cols>
+  <nav .Footer-module__Grjkva__col>
+    <span .Footer-module__Grjkva__colLabel>
+      TXT: Index
+    <a .Footer-module__Grjkva__colLink href=/work>
+      TXT: Work
+    <a .Footer-module__Grjkva__colLink href=/studio>
+      TXT: Studio
+    <a .Footer-module__Grjkva__colLink href=/process>
+      TXT: Process
+    <a .Footer-module__Grjkva__colLink href=/elements>
+      TXT: Elements
+    <a .Footer-module__Grjkva__colLink href=/services>
+      TXT: Services
+    <a .Footer-module__Grjkva__colLink href=/press>
+      TXT: Press
+    <a .Footer-module__Grjkva__colLink href=/contact>
+      TXT: Contact
+  <div .Footer-module__Grjkva__col>
+    <span .Footer-module__Grjkva__colLabel>
+      TXT: Studio
+    <address .Footer-module__Grjkva__address>
+      TXT: BSD, Tangerang Selatan
+      <br>
+      TXT: By appointment
+  <div .Footer-module__Grjkva__col>
+    <span .Footer-module__Grjkva__colLabel>
+      TXT: Connect
+    <a .Footer-module__Grjkva__colLink href=mailto:contact.senawastudio@gmail.com>
+      TXT: contact.senawastudio
+      <wbr>
+        TXT: @gmail.com
+      <a .Footer-module__Grjkva__colLink href=tel:+6281213547006>
+        TXT: +62 812 1354 7006
+      <a .Footer-module__Grjkva__colLink href=https://www.instagram.com/senawa.studio/>
+        TXT: Instagram
+  <div .Footer-module__Grjkva__rule>
+  <div .Footer-module__Grjkva__bottom>
+    <span .Footer-module__Grjkva__fine>
+      TXT: ©
+      TXT: !-- --
+      TXT: 2026
+      TXT: !-- --
+      TXT: Senawa Studio
+    <span .Footer-module__Grjkva__fine>
+      TXT: Architecture &amp; Interior Design
+    <span .Footer-module__Grjkva__fine>
+      TXT: BSD, Tangerang Selatan
+<div .PageTransition-module__kKDxmW__shutter .>
+  <svg .PageTransition-module__kKDxmW__mark>
+  <path>
+<div .AwwwardsBadge-module___6FJsW__badge>
+  <a .AwwwardsBadge-module___6FJsW__link href=https://www.awwwards.com/sites/senawa>
+    <svg>
+    <path .js-color-bg>
+  <g .js-color-text>
+    <path>

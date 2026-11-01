@@ -1,0 +1,323 @@
+<button .Nav-module__bLoQaq__searchClose>
+  <span>
+<div .Nav-module__bLoQaq__searchWrap>
+  <div .Nav-module__bLoQaq__searchField>
+    <svg .Nav-module__bLoQaq__searchFieldIcon>
+    <circle>
+  <line>
+<input .Nav-module__bLoQaq__searchInput>
+<p .visually-hidden>
+<div .Nav-module__bLoQaq__searchContent>
+  <div .Nav-module__bLoQaq__searchListbox>
+    <div .Nav-module__bLoQaq__searchGroup>
+      <div .Nav-module__bLoQaq__searchSectLabel>
+        <span .Nav-module__bLoQaq__searchLbl>
+          TXT: Featured
+      <a .Nav-module__bLoQaq__searchItem . href=/work/aa-house>
+        <span .Nav-module__bLoQaq__searchArrow>
+          TXT: →
+        <span .Nav-module__bLoQaq__searchItemTitle>
+          TXT: AA House
+          <span .Nav-module__bLoQaq__searchItemLoc>
+            TXT: Bintaro
+        <span .Nav-module__bLoQaq__searchItemMeta>
+          TXT: Residential
+          TXT: !-- --
+          TXT: ·
+          TXT: !-- --
+          TXT: 2025
+      <a .Nav-module__bLoQaq__searchItem . href=/work/louver-house>
+        <span .Nav-module__bLoQaq__searchArrow>
+          TXT: →
+        <span .Nav-module__bLoQaq__searchItemTitle>
+          TXT: Louver House
+          <span .Nav-module__bLoQaq__searchItemLoc>
+            TXT: Giriloka
+        <span .Nav-module__bLoQaq__searchItemMeta>
+          TXT: Residential
+          TXT: !-- --
+          TXT: ·
+          TXT: !-- --
+          TXT: 2024
+      <a .Nav-module__bLoQaq__searchItem . href=/work/nsb-ps>
+        <span .Nav-module__bLoQaq__searchArrow>
+          TXT: →
+        <span .Nav-module__bLoQaq__searchItemTitle>
+          TXT: NSB PS
+          <span .Nav-module__bLoQaq__searchItemLoc>
+            TXT: Plaza Senayan
+        <span .Nav-module__bLoQaq__searchItemMeta>
+          TXT: Commercial
+          TXT: !-- --
+          TXT: ·
+          TXT: !-- --
+          TXT: 2024
+  <div .Nav-module__bLoQaq__searchGroup>
+    <div .Nav-module__bLoQaq__searchSectLabel>
+      <span .Nav-module__bLoQaq__searchLbl>
+        TXT: Browse by type
+    <div .Nav-module__bLoQaq__searchTypeWrap>
+      <button .Nav-module__bLoQaq__searchTypeCell>
+        <span .Nav-module__bLoQaq__searchTypeName>
+          TXT: Residential
+        <span .Nav-module__bLoQaq__searchTypeCount>
+          TXT: 07
+      <button .Nav-module__bLoQaq__searchTypeCell>
+        <span .Nav-module__bLoQaq__searchTypeName>
+          TXT: Commercial
+        <span .Nav-module__bLoQaq__searchTypeCount>
+          TXT: 01
+<div .Nav-module__bLoQaq__searchLegend>
+  <span .Nav-module__bLoQaq__searchLegendItem>
+    <kbd .Nav-module__bLoQaq__kbd>
+      TXT: ↑
+    <kbd .Nav-module__bLoQaq__kbd>
+      TXT: ↓
+    <b>
+      TXT: Navigate
+  <span .Nav-module__bLoQaq__searchLegendItem>
+    <kbd .Nav-module__bLoQaq__kbd>
+      TXT: ↵
+    <b>
+      TXT: Open
+  <span .Nav-module__bLoQaq__searchLegendItem>
+    <kbd .Nav-module__bLoQaq__kbd>
+      TXT: esc
+    <b>
+      TXT: Close
+<div>
+  <main .page-module__ylPtNa__main>
+    <header .container .page-module__ylPtNa__lead>
+      <p .page-module__ylPtNa__eyebrow>
+        TXT: The Studio
+      <h1 .page-module__ylPtNa__title>
+        TXT: Inside
+        <br>
+        TXT: the Studio
+      <div .page-module__ylPtNa__leadGrid>
+        <div style=--sr-y:20px;--sr-delay:0ms>
+          <div .page-module__ylPtNa__philosophy>
+            <p .page-module__ylPtNa__philoLead>
+              TXT: Satu Nafas dan Satu Nyawa
+            <p .page-module__ylPtNa__philoBody>
+              TXT: Senawa merupakan studio kreatif yang bergerak dalam bidang arsitektur, interior, dan furnitur. Kami mempercayai bahwa ruang dan manusia harus berbagi nafas dan nyawa yang sama agar keduanya mampu hidu
+            <p .page-module__ylPtNa__philoLead>
+              TXT: Karakter, Konteks, dan Komposisi.
+            <p .page-module__ylPtNa__philoBody>
+              TXT: Senawa is a creative studio working across architecture, interior, and furniture design. We believe that space and its inhabitants must share the same breath and spirit for both to exist in their full
+            <p .page-module__ylPtNa__philoLead>
+              TXT: Character, Context, and Composition.
+        <div .page-module__ylPtNa__markWrap>
+          <span .page-module__ylPtNa__mark style=display:block;aspect-ratio:407 / 203;background-color:currentColor;-webkit-mask->
+      <dl .page-module__ylPtNa__facts>
+        <div .page-module__ylPtNa__fact>
+          <dt>
+            TXT: Established
+          <dd>
+            TXT: 2018
+        <div .page-module__ylPtNa__fact>
+          <dt>
+            TXT: Location
+          <dd>
+            TXT: BSD, Tangerang Selatan
+        <div .page-module__ylPtNa__fact>
+          <dt>
+            TXT: Discipline
+          <dd>
+            TXT: Architecture, Interior, Furniture Design
+    <section .container .page-module__ylPtNa__section>
+      <div .page-module__ylPtNa__sectionHead>
+        <h2 .page-module__ylPtNa__eyebrow>
+          TXT: The Team
+        <p .page-module__ylPtNa__lede>
+          <strong .page-module__ylPtNa__ledeName>
+            TXT: SENAWA
+          TXT: is a multidisciplinary design studio driven by a passion for architecture, interiors, and the art of living. Our team brings together creative thinkers, designers, and project specialists who believe 
+      <div .page-module__ylPtNa__team>
+        <div .page-module__ylPtNa__feature .>
+          <div .page-module__ylPtNa__featureInner>
+            <div .page-module__ylPtNa__featureFigureWrap>
+              <span .page-module__ylPtNa__featureFigure style=display:block;aspect-ratio:278 / 309;background-color:currentColor;-webkit-mask->
+              <p .page-module__ylPtNa__featureName>
+                TXT: Enrico Melvin
+              <p .page-module__ylPtNa__featureRole>
+                <span .page-module__ylPtNa__featureRoleLine>
+                  TXT: Principal
+                <span .page-module__ylPtNa__featureRoleLine>
+                  TXT: Creative Director
+            <div .page-module__ylPtNa__featureBody>
+              <div .page-module__ylPtNa__featureBio>
+                <p>
+                  TXT: Enrico Melvin is the Principal and Creative Director of Senawa Studio. He began his career in architecture and interior design in 2017, working as a Junior Designer at KIAT Architect while also collab
+                <p>
+                  TXT: Enrico believes that architecture should create a meaningful connection between people and space. His approach focuses on understanding the needs of its users, creating environments that are functiona
+        <div .page-module__ylPtNa__roster>
+          <button .page-module__ylPtNa__figureBtn .page-module__ylPtNa__figureBtnActive>
+            <span .page-module__ylPtNa__figureCell>
+              <span .page-module__ylPtNa__figure style=display:block;aspect-ratio:278 / 309;background-color:currentColor;-webkit-mask->
+            <span .page-module__ylPtNa__figureName>
+              TXT: Enrico Melvin
+            <span .page-module__ylPtNa__figureRole>
+              <span .page-module__ylPtNa__figureRoleLine>
+                TXT: Principal
+              <span .page-module__ylPtNa__figureRoleLine>
+                TXT: Creative Director
+          <button .page-module__ylPtNa__figureBtn .>
+            <span .page-module__ylPtNa__figureCell>
+              <span .page-module__ylPtNa__figure style=display:block;aspect-ratio:165 / 351;background-color:currentColor;-webkit-mask->
+            <span .page-module__ylPtNa__figureName>
+              TXT: Sophia Ivana Satya
+            <span .page-module__ylPtNa__figureRole>
+              <span .page-module__ylPtNa__figureRoleLine>
+                TXT: Client Relations
+              <span .page-module__ylPtNa__figureRoleLine>
+                TXT: Managing Director
+          <button .page-module__ylPtNa__figureBtn .>
+            <span .page-module__ylPtNa__figureCell>
+              <span .page-module__ylPtNa__figure style=display:block;aspect-ratio:136 / 368;background-color:currentColor;-webkit-mask->
+            <span .page-module__ylPtNa__figureName>
+              TXT: Yoyok Kiswanto
+            <span .page-module__ylPtNa__figureRole>
+              <span .page-module__ylPtNa__figureRoleLine>
+                TXT: Project
+              <span .page-module__ylPtNa__figureRoleLine>
+                TXT: Manager
+          <button .page-module__ylPtNa__figureBtn .>
+            <span .page-module__ylPtNa__figureCell>
+              <span .page-module__ylPtNa__figure style=display:block;aspect-ratio:156 / 368;background-color:currentColor;-webkit-mask->
+            <span .page-module__ylPtNa__figureName>
+              TXT: Tri Indah
+            <span .page-module__ylPtNa__figureRole>
+              <span .page-module__ylPtNa__figureRoleLine>
+                TXT: Head
+              <span .page-module__ylPtNa__figureRoleLine>
+                TXT: Drafter
+          <button .page-module__ylPtNa__figureBtn .>
+            <span .page-module__ylPtNa__figureCell>
+              <span .page-module__ylPtNa__figure style=display:block;aspect-ratio:183 / 330;background-color:currentColor;-webkit-mask->
+            <span .page-module__ylPtNa__figureName>
+              TXT: Vania
+            <span .page-module__ylPtNa__figureRole>
+              <span .page-module__ylPtNa__figureRoleLine>
+                TXT: Head
+              <span .page-module__ylPtNa__figureRoleLine>
+                TXT: Architect
+          <button .page-module__ylPtNa__figureBtn .>
+            <span .page-module__ylPtNa__figureCell>
+              <span .page-module__ylPtNa__figure style=display:block;aspect-ratio:102 / 366;background-color:currentColor;-webkit-mask->
+            <span .page-module__ylPtNa__figureName>
+              TXT: Farah Salsa
+            <span .page-module__ylPtNa__figureRole>
+              <span .page-module__ylPtNa__figureRoleLine>
+                TXT: Interior
+              <span .page-module__ylPtNa__figureRoleLine>
+                TXT: Designer
+          <button .page-module__ylPtNa__figureBtn .>
+            <span .page-module__ylPtNa__figureCell>
+              <span .page-module__ylPtNa__figure style=display:block;aspect-ratio:298 / 369;background-color:currentColor;-webkit-mask->
+            <span .page-module__ylPtNa__figureName>
+              TXT: Fiky
+            <span .page-module__ylPtNa__figureRole>
+              <span .page-module__ylPtNa__figureRoleLine>
+                TXT: Interior
+              <span .page-module__ylPtNa__figureRoleLine>
+                TXT: Designer
+          <button .page-module__ylPtNa__figureBtn .>
+            <span .page-module__ylPtNa__figureCell>
+              <span .page-module__ylPtNa__figure style=display:block;aspect-ratio:201 / 375;background-color:currentColor;-webkit-mask->
+            <span .page-module__ylPtNa__figureName>
+              TXT: Falih
+            <span .page-module__ylPtNa__figureRole>
+              <span .page-module__ylPtNa__figureRoleLine>
+                TXT: Junior
+              <span .page-module__ylPtNa__figureRoleLine>
+                TXT: Architect
+          <button .page-module__ylPtNa__figureBtn .>
+            <span .page-module__ylPtNa__figureCell>
+              <span .page-module__ylPtNa__figure style=display:block;aspect-ratio:102 / 366;background-color:currentColor;-webkit-mask->
+            <span .page-module__ylPtNa__figureName>
+              TXT: Falah
+            <span .page-module__ylPtNa__figureRole>
+              <span .page-module__ylPtNa__figureRoleLine>
+                TXT: Junior
+              <span .page-module__ylPtNa__figureRoleLine>
+                TXT: Drafter
+    <section .container .page-module__ylPtNa__closing>
+      <p .page-module__ylPtNa__closeStatement>
+        TXT: An architecture, interior, and furniture studio in Greater Jakarta.
+      <a .page-module__ylPtNa__closeLink href=/work>
+        TXT: See the work
+  TXT: !--$--
+  TXT: !--/$--
+<footer .Footer-module__Grjkva__footer>
+  <div .Footer-module__Grjkva__inner>
+    <div .Footer-module__Grjkva__cta>
+      <div .Footer-module__Grjkva__ctaText>
+        <span .Footer-module__Grjkva__kicker>
+          TXT: Start a project
+        <a .Footer-module__Grjkva__ctaLink href=/contact>
+          <span>
+            TXT: Tell us about your site
+          <svg .Footer-module__Grjkva__ctaArrow>
+          <path>
+  <span .Footer-module__Grjkva__markWrap>
+    <svg>
+    <path>
+<div .Footer-module__Grjkva__rule>
+<div .Footer-module__Grjkva__cols>
+  <nav .Footer-module__Grjkva__col>
+    <span .Footer-module__Grjkva__colLabel>
+      TXT: Index
+    <a .Footer-module__Grjkva__colLink href=/work>
+      TXT: Work
+    <a .Footer-module__Grjkva__colLink href=/studio>
+      TXT: Studio
+    <a .Footer-module__Grjkva__colLink href=/process>
+      TXT: Process
+    <a .Footer-module__Grjkva__colLink href=/elements>
+      TXT: Elements
+    <a .Footer-module__Grjkva__colLink href=/services>
+      TXT: Services
+    <a .Footer-module__Grjkva__colLink href=/press>
+      TXT: Press
+    <a .Footer-module__Grjkva__colLink href=/contact>
+      TXT: Contact
+  <div .Footer-module__Grjkva__col>
+    <span .Footer-module__Grjkva__colLabel>
+      TXT: Studio
+    <address .Footer-module__Grjkva__address>
+      TXT: BSD, Tangerang Selatan
+      <br>
+      TXT: By appointment
+  <div .Footer-module__Grjkva__col>
+    <span .Footer-module__Grjkva__colLabel>
+      TXT: Connect
+    <a .Footer-module__Grjkva__colLink href=mailto:contact.senawastudio@gmail.com>
+      TXT: contact.senawastudio
+      <wbr>
+        TXT: @gmail.com
+      <a .Footer-module__Grjkva__colLink href=tel:+6281213547006>
+        TXT: +62 812 1354 7006
+      <a .Footer-module__Grjkva__colLink href=https://www.instagram.com/senawa.studio/>
+        TXT: Instagram
+  <div .Footer-module__Grjkva__rule>
+  <div .Footer-module__Grjkva__bottom>
+    <span .Footer-module__Grjkva__fine>
+      TXT: ©
+      TXT: !-- --
+      TXT: 2026
+      TXT: !-- --
+      TXT: Senawa Studio
+    <span .Footer-module__Grjkva__fine>
+      TXT: Architecture &amp; Interior Design
+    <span .Footer-module__Grjkva__fine>
+      TXT: BSD, Tangerang Selatan
+<div .PageTransition-module__kKDxmW__shutter .>
+  <svg .PageTransition-module__kKDxmW__mark>
+  <path>
+<div .AwwwardsBadge-module___6FJsW__badge>
+  <a .AwwwardsBadge-module___6FJsW__link href=https://www.awwwards.com/sites/senawa>
+    <svg>
+    <path .js-color-bg>
+  <g .js-color-text>
+    <path>

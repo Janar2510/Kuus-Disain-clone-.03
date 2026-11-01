@@ -1,0 +1,288 @@
+<button .Nav-module__bLoQaq__searchClose>
+  <span>
+<div .Nav-module__bLoQaq__searchWrap>
+  <div .Nav-module__bLoQaq__searchField>
+    <svg .Nav-module__bLoQaq__searchFieldIcon>
+    <circle>
+  <line>
+<input .Nav-module__bLoQaq__searchInput>
+<p .visually-hidden>
+<div .Nav-module__bLoQaq__searchContent>
+  <div .Nav-module__bLoQaq__searchListbox>
+    <div .Nav-module__bLoQaq__searchGroup>
+      <div .Nav-module__bLoQaq__searchSectLabel>
+        <span .Nav-module__bLoQaq__searchLbl>
+          TXT: Featured
+      <a .Nav-module__bLoQaq__searchItem . href=/work/aa-house>
+        <span .Nav-module__bLoQaq__searchArrow>
+          TXT: →
+        <span .Nav-module__bLoQaq__searchItemTitle>
+          TXT: AA House
+          <span .Nav-module__bLoQaq__searchItemLoc>
+            TXT: Bintaro
+        <span .Nav-module__bLoQaq__searchItemMeta>
+          TXT: Residential
+          TXT: !-- --
+          TXT: ·
+          TXT: !-- --
+          TXT: 2025
+      <a .Nav-module__bLoQaq__searchItem . href=/work/louver-house>
+        <span .Nav-module__bLoQaq__searchArrow>
+          TXT: →
+        <span .Nav-module__bLoQaq__searchItemTitle>
+          TXT: Louver House
+          <span .Nav-module__bLoQaq__searchItemLoc>
+            TXT: Giriloka
+        <span .Nav-module__bLoQaq__searchItemMeta>
+          TXT: Residential
+          TXT: !-- --
+          TXT: ·
+          TXT: !-- --
+          TXT: 2024
+      <a .Nav-module__bLoQaq__searchItem . href=/work/nsb-ps>
+        <span .Nav-module__bLoQaq__searchArrow>
+          TXT: →
+        <span .Nav-module__bLoQaq__searchItemTitle>
+          TXT: NSB PS
+          <span .Nav-module__bLoQaq__searchItemLoc>
+            TXT: Plaza Senayan
+        <span .Nav-module__bLoQaq__searchItemMeta>
+          TXT: Commercial
+          TXT: !-- --
+          TXT: ·
+          TXT: !-- --
+          TXT: 2024
+  <div .Nav-module__bLoQaq__searchGroup>
+    <div .Nav-module__bLoQaq__searchSectLabel>
+      <span .Nav-module__bLoQaq__searchLbl>
+        TXT: Browse by type
+    <div .Nav-module__bLoQaq__searchTypeWrap>
+      <button .Nav-module__bLoQaq__searchTypeCell>
+        <span .Nav-module__bLoQaq__searchTypeName>
+          TXT: Residential
+        <span .Nav-module__bLoQaq__searchTypeCount>
+          TXT: 07
+      <button .Nav-module__bLoQaq__searchTypeCell>
+        <span .Nav-module__bLoQaq__searchTypeName>
+          TXT: Commercial
+        <span .Nav-module__bLoQaq__searchTypeCount>
+          TXT: 01
+<div .Nav-module__bLoQaq__searchLegend>
+  <span .Nav-module__bLoQaq__searchLegendItem>
+    <kbd .Nav-module__bLoQaq__kbd>
+      TXT: ↑
+    <kbd .Nav-module__bLoQaq__kbd>
+      TXT: ↓
+    <b>
+      TXT: Navigate
+  <span .Nav-module__bLoQaq__searchLegendItem>
+    <kbd .Nav-module__bLoQaq__kbd>
+      TXT: ↵
+    <b>
+      TXT: Open
+  <span .Nav-module__bLoQaq__searchLegendItem>
+    <kbd .Nav-module__bLoQaq__kbd>
+      TXT: esc
+    <b>
+      TXT: Close
+<div>
+  <main .page-module__AB6CKq__main>
+    <header .container .page-module__AB6CKq__head>
+      <span .page-module__AB6CKq__eyebrow>
+        TXT: Process
+      <h1 .page-module__AB6CKq__title>
+        TXT: How we work
+      <div style=--sr-y:20px;--sr-delay:0ms>
+        <p .page-module__AB6CKq__statement>
+          TXT: From the first conversation to the day the keys are in your hand. The whole path, set down plainly.
+    <div .container .page-module__AB6CKq__path>
+      <section .page-module__AB6CKq__phase>
+        <div .page-module__AB6CKq__phaseHead style=--sr-y:20px;--sr-delay:0ms>
+          <span .page-module__AB6CKq__phaseLabel .page-module__AB6CKq__tnum>
+            TXT: Phase
+            TXT: !-- --
+            TXT: 01
+          <h2 .page-module__AB6CKq__phaseName>
+            TXT: Getting started
+          <p .page-module__AB6CKq__phaseBlurb>
+            TXT: We get to know you, your site, and what you are hoping for, then put it all down in plain language before anything begins.
+        <div .page-module__AB6CKq__steps>
+          <div .page-module__AB6CKq__step style=--sr-y:20px;--sr-delay:0ms>
+            <span .page-module__AB6CKq__stepNum .page-module__AB6CKq__tnum>
+              TXT: 01
+            <div .page-module__AB6CKq__stepMain>
+              <h3 .page-module__AB6CKq__stepTitle>
+                TXT: Discovery conversation
+              <p .page-module__AB6CKq__stepBody>
+                TXT: We meet, in the studio or over a call, to understand how you live, what your site is like, where your budget sits, and what you are hoping for.
+              <dl .page-module__AB6CKq__stepMeta>
+                <dt .page-module__AB6CKq__metaLabel>
+                  TXT: Your part
+                <dd .page-module__AB6CKq__metaValue>
+                  TXT: Share the vision
+          <div .page-module__AB6CKq__step style=--sr-y:20px;--sr-delay:0ms>
+            <span .page-module__AB6CKq__stepNum .page-module__AB6CKq__tnum>
+              TXT: 02
+            <div .page-module__AB6CKq__stepMain>
+              <h3 .page-module__AB6CKq__stepTitle>
+                TXT: Proposal and agreement
+              <p .page-module__AB6CKq__stepBody>
+                TXT: We set out the scope, the stages, the fees, and the timeline in language anyone can follow. Nothing starts until you have read it over and feel comfortable saying yes.
+              <dl .page-module__AB6CKq__stepMeta>
+                <dt .page-module__AB6CKq__metaLabel>
+                  TXT: Your part
+                <dd .page-module__AB6CKq__metaValue>
+                  TXT: Read it over, ask anything
+      <section .page-module__AB6CKq__phase>
+        <div .page-module__AB6CKq__phaseHead style=--sr-y:20px;--sr-delay:0ms>
+          <span .page-module__AB6CKq__phaseLabel .page-module__AB6CKq__tnum>
+            TXT: Phase
+            TXT: !-- --
+            TXT: 02
+          <h2 .page-module__AB6CKq__phaseName>
+            TXT: Design
+          <p .page-module__AB6CKq__phaseBlurb>
+            TXT: The idea takes shape on paper first, then in three dimensions, so you can see and feel it long before it is built.
+        <div .page-module__AB6CKq__steps>
+          <div .page-module__AB6CKq__step style=--sr-y:20px;--sr-delay:0ms>
+            <span .page-module__AB6CKq__stepNum .page-module__AB6CKq__tnum>
+              TXT: 03
+            <div .page-module__AB6CKq__stepMain>
+              <h3 .page-module__AB6CKq__stepTitle>
+                TXT: Concept design
+              <p .page-module__AB6CKq__stepBody>
+                TXT: The first sketches arrive, along with the thinking that holds it all together: how the building sits on its site, how the light moves through it, and how you live inside it.
+              <dl .page-module__AB6CKq__stepMeta>
+                <dt .page-module__AB6CKq__metaLabel>
+                  TXT: Your part
+                <dd .page-module__AB6CKq__metaValue>
+                  TXT: Take in the big idea
+          <div .page-module__AB6CKq__step style=--sr-y:20px;--sr-delay:0ms>
+            <span .page-module__AB6CKq__stepNum .page-module__AB6CKq__tnum>
+              TXT: 04
+            <div .page-module__AB6CKq__stepMain>
+              <h3 .page-module__AB6CKq__stepTitle>
+                TXT: Design development
+              <p .page-module__AB6CKq__stepBody>
+                TXT: We refine the materials, the proportions, and the small details, and bring everything to life in 3D so you can see and feel the space well before anyone breaks ground.
+              <dl .page-module__AB6CKq__stepMeta>
+                <dt .page-module__AB6CKq__metaLabel>
+                  TXT: Your part
+                <dd .page-module__AB6CKq__metaValue>
+                  TXT: React, and help us refine
+      <section .page-module__AB6CKq__phase>
+        <div .page-module__AB6CKq__phaseHead style=--sr-y:20px;--sr-delay:0ms>
+          <span .page-module__AB6CKq__phaseLabel .page-module__AB6CKq__tnum>
+            TXT: Phase
+            TXT: !-- --
+            TXT: 03
+          <h2 .page-module__AB6CKq__phaseName>
+            TXT: Delivery
+          <p .page-module__AB6CKq__phaseBlurb>
+            TXT: We handle the documents and stay close to the build, all the way through to handover.
+        <div .page-module__AB6CKq__steps>
+          <div .page-module__AB6CKq__step style=--sr-y:20px;--sr-delay:0ms>
+            <span .page-module__AB6CKq__stepNum .page-module__AB6CKq__tnum>
+              TXT: 05
+            <div .page-module__AB6CKq__stepMain>
+              <h3 .page-module__AB6CKq__stepTitle>
+                TXT: Technical drawings and permits
+              <p .page-module__AB6CKq__stepBody>
+                TXT: We prepare the detailed documentation that approvals and builders rely on. The drawings, the permit submissions, the paperwork: we take care of all of it so you do not have to.
+              <dl .page-module__AB6CKq__stepMeta>
+                <dt .page-module__AB6CKq__metaLabel>
+                  TXT: Your part
+                <dd .page-module__AB6CKq__metaValue>
+                  TXT: Leave it with us
+          <div .page-module__AB6CKq__step style=--sr-y:20px;--sr-delay:0ms>
+            <span .page-module__AB6CKq__stepNum .page-module__AB6CKq__tnum>
+              TXT: 06
+            <div .page-module__AB6CKq__stepMain>
+              <h3 .page-module__AB6CKq__stepTitle>
+                TXT: Construction and handover
+              <p .page-module__AB6CKq__stepBody>
+                TXT: We stay close through the build, visiting the site and keeping watch over the work, right up to the day the keys change hands and the space finally becomes yours.
+              <dl .page-module__AB6CKq__stepMeta>
+                <dt .page-module__AB6CKq__metaLabel>
+                  TXT: Your part
+                <dd .page-module__AB6CKq__metaValue>
+                  TXT: Watch it come to life
+    <div .container .page-module__AB6CKq__close style=--sr-y:20px;--sr-delay:0ms>
+      <p .page-module__AB6CKq__closeline>
+        TXT: And the keys are yours.
+      <a .page-module__AB6CKq__closelink href=/work>
+        TXT: See the work →
+  TXT: !--$--
+  TXT: !--/$--
+<footer .Footer-module__Grjkva__footer>
+  <div .Footer-module__Grjkva__inner>
+    <div .Footer-module__Grjkva__cta>
+      <div .Footer-module__Grjkva__ctaText>
+        <span .Footer-module__Grjkva__kicker>
+          TXT: Start a project
+        <a .Footer-module__Grjkva__ctaLink href=/contact>
+          <span>
+            TXT: Tell us about your site
+          <svg .Footer-module__Grjkva__ctaArrow>
+          <path>
+  <span .Footer-module__Grjkva__markWrap>
+    <svg>
+    <path>
+<div .Footer-module__Grjkva__rule>
+<div .Footer-module__Grjkva__cols>
+  <nav .Footer-module__Grjkva__col>
+    <span .Footer-module__Grjkva__colLabel>
+      TXT: Index
+    <a .Footer-module__Grjkva__colLink href=/work>
+      TXT: Work
+    <a .Footer-module__Grjkva__colLink href=/studio>
+      TXT: Studio
+    <a .Footer-module__Grjkva__colLink href=/process>
+      TXT: Process
+    <a .Footer-module__Grjkva__colLink href=/elements>
+      TXT: Elements
+    <a .Footer-module__Grjkva__colLink href=/services>
+      TXT: Services
+    <a .Footer-module__Grjkva__colLink href=/press>
+      TXT: Press
+    <a .Footer-module__Grjkva__colLink href=/contact>
+      TXT: Contact
+  <div .Footer-module__Grjkva__col>
+    <span .Footer-module__Grjkva__colLabel>
+      TXT: Studio
+    <address .Footer-module__Grjkva__address>
+      TXT: BSD, Tangerang Selatan
+      <br>
+      TXT: By appointment
+  <div .Footer-module__Grjkva__col>
+    <span .Footer-module__Grjkva__colLabel>
+      TXT: Connect
+    <a .Footer-module__Grjkva__colLink href=mailto:contact.senawastudio@gmail.com>
+      TXT: contact.senawastudio
+      <wbr>
+        TXT: @gmail.com
+      <a .Footer-module__Grjkva__colLink href=tel:+6281213547006>
+        TXT: +62 812 1354 7006
+      <a .Footer-module__Grjkva__colLink href=https://www.instagram.com/senawa.studio/>
+        TXT: Instagram
+  <div .Footer-module__Grjkva__rule>
+  <div .Footer-module__Grjkva__bottom>
+    <span .Footer-module__Grjkva__fine>
+      TXT: ©
+      TXT: !-- --
+      TXT: 2026
+      TXT: !-- --
+      TXT: Senawa Studio
+    <span .Footer-module__Grjkva__fine>
+      TXT: Architecture &amp; Interior Design
+    <span .Footer-module__Grjkva__fine>
+      TXT: BSD, Tangerang Selatan
+<div .PageTransition-module__kKDxmW__shutter .>
+  <svg .PageTransition-module__kKDxmW__mark>
+  <path>
+<div .AwwwardsBadge-module___6FJsW__badge>
+  <a .AwwwardsBadge-module___6FJsW__link href=https://www.awwwards.com/sites/senawa>
+    <svg>
+    <path .js-color-bg>
+  <g .js-color-text>
+    <path>

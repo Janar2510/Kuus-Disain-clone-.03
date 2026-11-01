@@ -1,20 +1,21 @@
 import type { Metadata } from "next";
-import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
-
-const geistSans = Geist({
-  variable: "--font-geist-sans",
-  subsets: ["latin"],
-});
-
-const geistMono = Geist_Mono({
-  variable: "--font-geist-mono",
-  subsets: ["latin"],
-});
+import { Nav } from "@/components/site/Nav";
+import { Footer } from "@/components/site/Footer";
+import { PageTransition } from "@/components/site/PageTransition";
+import { AwwwardsBadge } from "@/components/site/AwwwardsBadge";
 
 export const metadata: Metadata = {
-  title: "Website Clone",
-  description: "Pixel-perfect website clone",
+  title: "Senawa | Architecture & Interior Design Studio in Jakarta",
+  description:
+    "Architecture made for how people actually live. An architecture, interior, and furniture design studio in the Greater Jakarta area.",
+  metadataBase: new URL("https://senawastudio.com"),
+  openGraph: {
+    title: "Senawa | Architecture & Interior Design Studio in Jakarta",
+    description:
+      "Architecture made for how people actually live. An architecture, interior, and furniture design studio in the Greater Jakarta area.",
+    type: "website",
+  },
 };
 
 export default function RootLayout({
@@ -23,11 +24,19 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html
-      lang="en"
-      className={`${geistSans.variable} ${geistMono.variable} h-full antialiased`}
-    >
-      <body className="min-h-full flex flex-col">{children}</body>
+    <html lang="en" className="h-full antialiased">
+      <body>
+        <a href="#main-content" className="skip-link">
+          Skip to content
+        </a>
+        <PageTransition />
+        <Nav />
+        <div id="main-content" tabIndex={-1}>
+          {children}
+          <Footer />
+        </div>
+        <AwwwardsBadge />
+      </body>
     </html>
   );
 }

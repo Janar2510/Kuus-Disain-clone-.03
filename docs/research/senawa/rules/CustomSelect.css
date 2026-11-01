@@ -1,0 +1,15 @@
+
+.CustomSelect-module__38KbJW__wrapper{position:relative}
+.CustomSelect-module__38KbJW__trigger{appearance:none;border:none;border-bottom:1px solid var(--color-border);width:100%;font-family:var(--font-body);letter-spacing:.01em;color:var(--color-text);text-align:left;cursor:pointer;transition:border-color var(--duration-mid) var(--ease-out);background:0 0;border-radius:0;justify-content:space-between;align-items:center;gap:12px;padding:8px 2px 12px 0;font-size:16px;font-weight:300;line-height:1.6;display:flex}
+.CustomSelect-module__38KbJW__trigger:focus{border-color:var(--color-text)}
+.CustomSelect-module__38KbJW__trigger:focus:not(:focus-visible){outline:none}
+.CustomSelect-module__38KbJW__trigger[data-empty]{color:var(--walnut)}
+.CustomSelect-module__38KbJW__triggerLabel{text-overflow:ellipsis;white-space:nowrap;overflow:hidden}
+.CustomSelect-module__38KbJW__chevron{color:var(--flax);transition:transform var(--duration-quick) var(--ease-out);flex:none}
+.CustomSelect-module__38KbJW__chevronOpen{transform:rotate(180deg)}
+.CustomSelect-module__38KbJW__list{z-index:var(--z-nav);background-color:var(--wool);border:1px solid var(--color-border);border-radius:var(--radius-md);max-height:292px;margin:0;padding:6px;list-style:none;position:absolute;top:calc(100% + 6px);left:0;right:0;overflow-y:auto;box-shadow:0 16px 40px #3026201f}
+.CustomSelect-module__38KbJW__listEnter{animation:CustomSelect-module__38KbJW__listIn var(--duration-quick) var(--ease-out)}
+}.CustomSelect-module__38KbJW__option{border-radius:var(--radius-sm);font-family:var(--font-body);color:var(--color-text);cursor:pointer;justify-content:space-between;align-items:center;gap:12px;padding:11px 12px;font-size:15px;font-weight:300;line-height:1.5;display:flex}
+.CustomSelect-module__38KbJW__optionActive{background-color:var(--linen)}
+.CustomSelect-module__38KbJW__option[aria-selected=true]:after{content:"";border-left:1px solid var(--slate);border-bottom:1px solid var(--slate);flex:none;width:9px;height:5px;margin-top:-3px;transform:rotate(-45deg)}
+@media (prefers-reduced-motion:reduce){.CustomSelect-module__38KbJW__trigger,.CustomSelect-module__38KbJW__chevron{transition:none}.CustomSelect-module__38KbJW__listEnter{animation:none}}

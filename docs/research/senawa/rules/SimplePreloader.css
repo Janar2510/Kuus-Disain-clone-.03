@@ -1,0 +1,6 @@
+
+.SimplePreloader-module__hRAuAW__simple{z-index:var(--z-preloader);background-color:var(--wool);opacity:1;justify-content:center;align-items:center;transition:opacity .4s ease-out;display:flex;position:fixed;inset:0}
+.SimplePreloader-module__hRAuAW__leaving{opacity:0}
+.SimplePreloader-module__hRAuAW__mark{color:var(--slate);animation:.52s cubic-bezier(.22,1,.36,1) SimplePreloader-module__hRAuAW__simpleMarkIn}
+}@media (prefers-reduced-motion:reduce){.SimplePreloader-module__hRAuAW__simple{transition:none}
+.SimplePreloader-module__hRAuAW__mark{animation:none}

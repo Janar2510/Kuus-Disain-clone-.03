@@ -1,0 +1,12 @@
+
+.Preloader-module__aFCmlq__preloader{z-index:var(--z-preloader);background-color:var(--wool);position:fixed;inset:0}
+.Preloader-module__aFCmlq__imageFrame{border-radius:var(--radius-sm);width:min(440px,78vw);height:min(300px,52vh);transition:width .56s var(--ease-settle), height .56s var(--ease-settle), border-radius .56s var(--ease-settle);will-change:width, height;z-index:1;position:absolute;top:50%;left:50%;overflow:hidden;transform:translate(-50%,-50%)}
+.Preloader-module__aFCmlq__imageSlot{opacity:0;transition:opacity .12s ease-in-out;position:absolute;inset:0}
+.Preloader-module__aFCmlq__imageSlot.Preloader-module__aFCmlq__imageActive{opacity:1}
+.Preloader-module__aFCmlq__imageSlotImg{object-fit:cover;width:100%;height:100%;image-rendering:high-quality;-webkit-image-rendering:high-quality}
+.Preloader-module__aFCmlq__overlay{z-index:2;background:linear-gradient(to top, rgba(var(--scrim-ink), .82) 0%, rgba(var(--scrim-ink), .25) 42%, rgba(var(--scrim-ink), 0) 70%);opacity:0;transition:opacity .56s var(--ease-settle);pointer-events:none;position:absolute;inset:0}
+.Preloader-module__aFCmlq__settling .Preloader-module__aFCmlq__overlay,.Preloader-module__aFCmlq__exiting .Preloader-module__aFCmlq__overlay{opacity:1}
+.Preloader-module__aFCmlq__wordmark{font-family:var(--font-body);letter-spacing:.22em;text-transform:uppercase;color:var(--color-text);transition:transform .56s var(--ease-settle);will-change:transform;backface-visibility:hidden;z-index:3;font-size:18px;font-weight:500;position:absolute;top:calc(50vh + 176px);left:50%;transform:translate(-50%)}
+.Preloader-module__aFCmlq__exiting{opacity:0;pointer-events:none;transition:opacity .45s ease-out}
+@media (max-width:767px){.Preloader-module__aFCmlq__imageFrame{width:80vw;height:42vh}.Preloader-module__aFCmlq__wordmark{top:calc(71vh + 26px)}}
+@media (prefers-reduced-motion:reduce){.Preloader-module__aFCmlq__imageFrame,.Preloader-module__aFCmlq__imageSlot,.Preloader-module__aFCmlq__overlay,.Preloader-module__aFCmlq__wordmark,.Preloader-module__aFCmlq__exiting{transition:none!important}}

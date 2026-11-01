@@ -1,0 +1,219 @@
+<button .Nav-module__bLoQaq__searchClose>
+  <span>
+<div .Nav-module__bLoQaq__searchWrap>
+  <div .Nav-module__bLoQaq__searchField>
+    <svg .Nav-module__bLoQaq__searchFieldIcon>
+    <circle>
+  <line>
+<input .Nav-module__bLoQaq__searchInput>
+<p .visually-hidden>
+<div .Nav-module__bLoQaq__searchContent>
+  <div .Nav-module__bLoQaq__searchListbox>
+    <div .Nav-module__bLoQaq__searchGroup>
+      <div .Nav-module__bLoQaq__searchSectLabel>
+        <span .Nav-module__bLoQaq__searchLbl>
+          TXT: Featured
+      <a .Nav-module__bLoQaq__searchItem . href=/work/aa-house>
+        <span .Nav-module__bLoQaq__searchArrow>
+          TXT: →
+        <span .Nav-module__bLoQaq__searchItemTitle>
+          TXT: AA House
+          <span .Nav-module__bLoQaq__searchItemLoc>
+            TXT: Bintaro
+        <span .Nav-module__bLoQaq__searchItemMeta>
+          TXT: Residential
+          TXT: !-- --
+          TXT: ·
+          TXT: !-- --
+          TXT: 2025
+      <a .Nav-module__bLoQaq__searchItem . href=/work/louver-house>
+        <span .Nav-module__bLoQaq__searchArrow>
+          TXT: →
+        <span .Nav-module__bLoQaq__searchItemTitle>
+          TXT: Louver House
+          <span .Nav-module__bLoQaq__searchItemLoc>
+            TXT: Giriloka
+        <span .Nav-module__bLoQaq__searchItemMeta>
+          TXT: Residential
+          TXT: !-- --
+          TXT: ·
+          TXT: !-- --
+          TXT: 2024
+      <a .Nav-module__bLoQaq__searchItem . href=/work/nsb-ps>
+        <span .Nav-module__bLoQaq__searchArrow>
+          TXT: →
+        <span .Nav-module__bLoQaq__searchItemTitle>
+          TXT: NSB PS
+          <span .Nav-module__bLoQaq__searchItemLoc>
+            TXT: Plaza Senayan
+        <span .Nav-module__bLoQaq__searchItemMeta>
+          TXT: Commercial
+          TXT: !-- --
+          TXT: ·
+          TXT: !-- --
+          TXT: 2024
+  <div .Nav-module__bLoQaq__searchGroup>
+    <div .Nav-module__bLoQaq__searchSectLabel>
+      <span .Nav-module__bLoQaq__searchLbl>
+        TXT: Browse by type
+    <div .Nav-module__bLoQaq__searchTypeWrap>
+      <button .Nav-module__bLoQaq__searchTypeCell>
+        <span .Nav-module__bLoQaq__searchTypeName>
+          TXT: Residential
+        <span .Nav-module__bLoQaq__searchTypeCount>
+          TXT: 07
+      <button .Nav-module__bLoQaq__searchTypeCell>
+        <span .Nav-module__bLoQaq__searchTypeName>
+          TXT: Commercial
+        <span .Nav-module__bLoQaq__searchTypeCount>
+          TXT: 01
+<div .Nav-module__bLoQaq__searchLegend>
+  <span .Nav-module__bLoQaq__searchLegendItem>
+    <kbd .Nav-module__bLoQaq__kbd>
+      TXT: ↑
+    <kbd .Nav-module__bLoQaq__kbd>
+      TXT: ↓
+    <b>
+      TXT: Navigate
+  <span .Nav-module__bLoQaq__searchLegendItem>
+    <kbd .Nav-module__bLoQaq__kbd>
+      TXT: ↵
+    <b>
+      TXT: Open
+  <span .Nav-module__bLoQaq__searchLegendItem>
+    <kbd .Nav-module__bLoQaq__kbd>
+      TXT: esc
+    <b>
+      TXT: Close
+<div>
+  <main .page-module__VKYseq__main>
+    <div .container>
+      <header .page-module__VKYseq__titleBlock>
+        <div .page-module__VKYseq__tbTitle>
+          <span .section-label>
+            TXT: Services
+          <h1 .page-module__VKYseq__pageTitle>
+            TXT: Disciplines
+        <div .page-module__VKYseq__tbMeta>
+          <div .page-module__VKYseq__tbCell>
+            <span .page-module__VKYseq__tbLabel>
+              TXT: Count
+            <span .page-module__VKYseq__tbValue>
+              TXT: 03
+          <div .page-module__VKYseq__tbCell>
+            <span .page-module__VKYseq__tbLabel>
+              TXT: Scope
+            <span .page-module__VKYseq__tbValue>
+              TXT: Architecture, Interior, Furniture Design
+          <div .page-module__VKYseq__tbCell>
+            <span .page-module__VKYseq__tbLabel>
+              TXT: Location
+            <span .page-module__VKYseq__tbValue>
+              TXT: Greater Jakarta
+      <p .page-module__VKYseq__lede>
+        TXT: Architecture, interior, and furniture design, under one practice.
+      <ol .page-module__VKYseq__list>
+        <li .page-module__VKYseq__row .>
+          <div .page-module__VKYseq__rail>
+            <span .page-module__VKYseq__num>
+              TXT: 01
+            <h2 .page-module__VKYseq__railLabel>
+              TXT: Architecture
+          <div .page-module__VKYseq__body>
+            <div style=--sr-y:24px;--sr-delay:80ms>
+              <p .page-module__VKYseq__description>
+                TXT: Buildings designed from the ground up, shaped by their site, climate, and the way they will be used. Houses, primarily, alongside commercial work.
+        <li .page-module__VKYseq__row .>
+          <div .page-module__VKYseq__rail>
+            <span .page-module__VKYseq__num>
+              TXT: 02
+            <h2 .page-module__VKYseq__railLabel>
+              TXT: Interior
+          <div .page-module__VKYseq__body>
+            <div style=--sr-y:24px;--sr-delay:80ms>
+              <p .page-module__VKYseq__description>
+                TXT: Interiors developed with the architecture or on their own, built around light, proportion, and a restrained material palette.
+        <li .page-module__VKYseq__row .page-module__VKYseq__rowLast>
+          <div .page-module__VKYseq__rail>
+            <span .page-module__VKYseq__num>
+              TXT: 03
+            <h2 .page-module__VKYseq__railLabel>
+              TXT: Furniture Design
+          <div .page-module__VKYseq__body>
+            <div style=--sr-y:24px;--sr-delay:80ms>
+              <p .page-module__VKYseq__description>
+                TXT: Furniture designed for specific spaces and often built into them, made to last.
+  TXT: !--$--
+  TXT: !--/$--
+<footer .Footer-module__Grjkva__footer>
+  <div .Footer-module__Grjkva__inner>
+    <div .Footer-module__Grjkva__cta>
+      <div .Footer-module__Grjkva__ctaText>
+        <span .Footer-module__Grjkva__kicker>
+          TXT: Start a project
+        <a .Footer-module__Grjkva__ctaLink href=/contact>
+          <span>
+            TXT: Tell us about your site
+          <svg .Footer-module__Grjkva__ctaArrow>
+          <path>
+  <span .Footer-module__Grjkva__markWrap>
+    <svg>
+    <path>
+<div .Footer-module__Grjkva__rule>
+<div .Footer-module__Grjkva__cols>
+  <nav .Footer-module__Grjkva__col>
+    <span .Footer-module__Grjkva__colLabel>
+      TXT: Index
+    <a .Footer-module__Grjkva__colLink href=/work>
+      TXT: Work
+    <a .Footer-module__Grjkva__colLink href=/studio>
+      TXT: Studio
+    <a .Footer-module__Grjkva__colLink href=/process>
+      TXT: Process
+    <a .Footer-module__Grjkva__colLink href=/elements>
+      TXT: Elements
+    <a .Footer-module__Grjkva__colLink href=/services>
+      TXT: Services
+    <a .Footer-module__Grjkva__colLink href=/press>
+      TXT: Press
+    <a .Footer-module__Grjkva__colLink href=/contact>
+      TXT: Contact
+  <div .Footer-module__Grjkva__col>
+    <span .Footer-module__Grjkva__colLabel>
+      TXT: Studio
+    <address .Footer-module__Grjkva__address>
+      TXT: BSD, Tangerang Selatan
+      <br>
+      TXT: By appointment
+  <div .Footer-module__Grjkva__col>
+    <span .Footer-module__Grjkva__colLabel>
+      TXT: Connect
+    <a .Footer-module__Grjkva__colLink href=mailto:contact.senawastudio@gmail.com>
+      TXT: contact.senawastudio
+      <wbr>
+        TXT: @gmail.com
+      <a .Footer-module__Grjkva__colLink href=tel:+6281213547006>
+        TXT: +62 812 1354 7006
+      <a .Footer-module__Grjkva__colLink href=https://www.instagram.com/senawa.studio/>
+        TXT: Instagram
+  <div .Footer-module__Grjkva__rule>
+  <div .Footer-module__Grjkva__bottom>
+    <span .Footer-module__Grjkva__fine>
+      TXT: ©
+      TXT: !-- --
+      TXT: 2026
+      TXT: !-- --
+      TXT: Senawa Studio
+    <span .Footer-module__Grjkva__fine>
+      TXT: Architecture &amp; Interior Design
+    <span .Footer-module__Grjkva__fine>
+      TXT: BSD, Tangerang Selatan
+<div .PageTransition-module__kKDxmW__shutter .>
+  <svg .PageTransition-module__kKDxmW__mark>
+  <path>
+<div .AwwwardsBadge-module___6FJsW__badge>
+  <a .AwwwardsBadge-module___6FJsW__link href=https://www.awwwards.com/sites/senawa>
+    <svg>
+    <path .js-color-bg>
+  <g .js-color-text>
+    <path>

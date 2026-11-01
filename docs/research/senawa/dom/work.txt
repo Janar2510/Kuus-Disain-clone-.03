@@ -1,0 +1,358 @@
+<button .Nav-module__bLoQaq__searchClose>
+  <span>
+<div .Nav-module__bLoQaq__searchWrap>
+  <div .Nav-module__bLoQaq__searchField>
+    <svg .Nav-module__bLoQaq__searchFieldIcon>
+    <circle>
+  <line>
+<input .Nav-module__bLoQaq__searchInput>
+<p .visually-hidden>
+<div .Nav-module__bLoQaq__searchContent>
+  <div .Nav-module__bLoQaq__searchListbox>
+    <div .Nav-module__bLoQaq__searchGroup>
+      <div .Nav-module__bLoQaq__searchSectLabel>
+        <span .Nav-module__bLoQaq__searchLbl>
+          TXT: Featured
+      <a .Nav-module__bLoQaq__searchItem . href=/work/aa-house>
+        <span .Nav-module__bLoQaq__searchArrow>
+          TXT: →
+        <span .Nav-module__bLoQaq__searchItemTitle>
+          TXT: AA House
+          <span .Nav-module__bLoQaq__searchItemLoc>
+            TXT: Bintaro
+        <span .Nav-module__bLoQaq__searchItemMeta>
+          TXT: Residential
+          TXT: !-- --
+          TXT: ·
+          TXT: !-- --
+          TXT: 2025
+      <a .Nav-module__bLoQaq__searchItem . href=/work/louver-house>
+        <span .Nav-module__bLoQaq__searchArrow>
+          TXT: →
+        <span .Nav-module__bLoQaq__searchItemTitle>
+          TXT: Louver House
+          <span .Nav-module__bLoQaq__searchItemLoc>
+            TXT: Giriloka
+        <span .Nav-module__bLoQaq__searchItemMeta>
+          TXT: Residential
+          TXT: !-- --
+          TXT: ·
+          TXT: !-- --
+          TXT: 2024
+      <a .Nav-module__bLoQaq__searchItem . href=/work/nsb-ps>
+        <span .Nav-module__bLoQaq__searchArrow>
+          TXT: →
+        <span .Nav-module__bLoQaq__searchItemTitle>
+          TXT: NSB PS
+          <span .Nav-module__bLoQaq__searchItemLoc>
+            TXT: Plaza Senayan
+        <span .Nav-module__bLoQaq__searchItemMeta>
+          TXT: Commercial
+          TXT: !-- --
+          TXT: ·
+          TXT: !-- --
+          TXT: 2024
+  <div .Nav-module__bLoQaq__searchGroup>
+    <div .Nav-module__bLoQaq__searchSectLabel>
+      <span .Nav-module__bLoQaq__searchLbl>
+        TXT: Browse by type
+    <div .Nav-module__bLoQaq__searchTypeWrap>
+      <button .Nav-module__bLoQaq__searchTypeCell>
+        <span .Nav-module__bLoQaq__searchTypeName>
+          TXT: Residential
+        <span .Nav-module__bLoQaq__searchTypeCount>
+          TXT: 07
+      <button .Nav-module__bLoQaq__searchTypeCell>
+        <span .Nav-module__bLoQaq__searchTypeName>
+          TXT: Commercial
+        <span .Nav-module__bLoQaq__searchTypeCount>
+          TXT: 01
+<div .Nav-module__bLoQaq__searchLegend>
+  <span .Nav-module__bLoQaq__searchLegendItem>
+    <kbd .Nav-module__bLoQaq__kbd>
+      TXT: ↑
+    <kbd .Nav-module__bLoQaq__kbd>
+      TXT: ↓
+    <b>
+      TXT: Navigate
+  <span .Nav-module__bLoQaq__searchLegendItem>
+    <kbd .Nav-module__bLoQaq__kbd>
+      TXT: ↵
+    <b>
+      TXT: Open
+  <span .Nav-module__bLoQaq__searchLegendItem>
+    <kbd .Nav-module__bLoQaq__kbd>
+      TXT: esc
+    <b>
+      TXT: Close
+<div>
+  <main>
+    <section .WorkGrid-module__eu5Cwq__section>
+      <div .container>
+        <h1 .visually-hidden>
+          TXT: Work: Selected Architecture &amp; Interior Projects in Jakarta
+        <div style=--sr-y:40px;--sr-delay:0ms>
+          <div .WorkGrid-module__eu5Cwq__header>
+            <span .section-label>
+              TXT: All Work
+            <div .WorkGrid-module__eu5Cwq__viewToggle>
+              <button .WorkGrid-module__eu5Cwq__viewBtn .WorkGrid-module__eu5Cwq__viewActive>
+                TXT: Grid
+              <button .WorkGrid-module__eu5Cwq__viewBtn .>
+                TXT: Index
+        <div style=--sr-y:40px;--sr-delay:100ms>
+          <div .WorkGrid-module__eu5Cwq__filters>
+            <button .WorkGrid-module__eu5Cwq__filterBtn .WorkGrid-module__eu5Cwq__filterActive>
+              TXT: All
+              <span .WorkGrid-module__eu5Cwq__filterCount>
+                TXT: 8
+            <button .WorkGrid-module__eu5Cwq__filterBtn .>
+              TXT: Commercial
+              <span .WorkGrid-module__eu5Cwq__filterCount>
+                TXT: 1
+            <button .WorkGrid-module__eu5Cwq__filterBtn .>
+              TXT: Residential
+              <span .WorkGrid-module__eu5Cwq__filterCount>
+                TXT: 7
+        <p .visually-hidden>
+          TXT: Showing 8 projects.
+        <div .WorkGrid-module__eu5Cwq__gridContainer>
+          <div .WorkGrid-module__eu5Cwq__strip>
+            <div .WorkGrid-module__eu5Cwq__stripItem . style=--grow:2.19;--sr-y:40px;--sr-delay:0ms>
+              <a .WorkGrid-module__eu5Cwq__card href=/work/aa-house>
+                <div .WorkGrid-module__eu5Cwq__imageWrap . style=view-transition-name:work-image-aa-house;view-transition-class:work-image>
+                  <div .FadeImage-module__MlDS8a__wrapper .FadeImage-module__MlDS8a__fill .>
+                    <div .FadeImage-module__MlDS8a__placeholder>
+                    <img .FadeImage-module__MlDS8a__image style=position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;color:tra>
+                  <div .ProjectVideo-module__NwGGCa__wrap .>
+                    <video .ProjectVideo-module__NwGGCa__video .>
+                      <source>
+                      <source>
+                      <source>
+                      <source>
+                      <source>
+                      <source>
+                      <source>
+                <div .WorkGrid-module__eu5Cwq__cardInfo style=view-transition-name:work-info-aa-house;view-transition-class:work-info>
+                  <span .WorkGrid-module__eu5Cwq__cardTitle>
+                    TXT: AA House
+                  <div .WorkGrid-module__eu5Cwq__cardMeta>
+                    <span .WorkGrid-module__eu5Cwq__cardTag>
+                      TXT: Residential
+                    <span .WorkGrid-module__eu5Cwq__cardDot>
+                      TXT: ·
+                    <span .WorkGrid-module__eu5Cwq__cardTag>
+                      TXT: 2025
+                    <span .WorkGrid-module__eu5Cwq__cardLocation>
+                      TXT: Bintaro, Tangerang
+            <div .WorkGrid-module__eu5Cwq__stripItem .WorkGrid-module__eu5Cwq__stripItemTall style=--grow:0.8;--sr-y:40px;--sr-delay:80ms>
+              <a .WorkGrid-module__eu5Cwq__card href=/work/am-house>
+                <div .WorkGrid-module__eu5Cwq__imageWrap .WorkGrid-module__eu5Cwq__imageWrapTall style=view-transition-name:work-image-am-house;view-transition-class:work-image>
+                  <div .FadeImage-module__MlDS8a__wrapper .FadeImage-module__MlDS8a__fill .>
+                    <div .FadeImage-module__MlDS8a__placeholder>
+                    <img .FadeImage-module__MlDS8a__image style=position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;color:tra>
+                  <div .ProjectVideo-module__NwGGCa__wrap .>
+                    <video .ProjectVideo-module__NwGGCa__video .>
+                      <source>
+                      <source>
+                      <source>
+                      <source>
+                      <source>
+                      <source>
+                      <source>
+                <div .WorkGrid-module__eu5Cwq__cardInfo style=view-transition-name:work-info-am-house;view-transition-class:work-info>
+                  <span .WorkGrid-module__eu5Cwq__cardTitle>
+                    TXT: AM House
+                  <div .WorkGrid-module__eu5Cwq__cardMeta>
+                    <span .WorkGrid-module__eu5Cwq__cardTag>
+                      TXT: Residential
+                    <span .WorkGrid-module__eu5Cwq__cardDot>
+                      TXT: ·
+                    <span .WorkGrid-module__eu5Cwq__cardTag>
+                      TXT: 2024
+                    <span .WorkGrid-module__eu5Cwq__cardLocation>
+                      TXT: Cinere, Depok
+          <div .WorkGrid-module__eu5Cwq__strip>
+            <div .WorkGrid-module__eu5Cwq__stripItem . style=--grow:2.2;--sr-y:40px;--sr-delay:0ms>
+              <a .WorkGrid-module__eu5Cwq__card href=/work/hy-house>
+                <div .WorkGrid-module__eu5Cwq__imageWrap . style=view-transition-name:work-image-hy-house;view-transition-class:work-image>
+                  <div .FadeImage-module__MlDS8a__wrapper .FadeImage-module__MlDS8a__fill .>
+                    <div .FadeImage-module__MlDS8a__placeholder>
+                    <img .FadeImage-module__MlDS8a__image style=position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;color:tra>
+                <div .WorkGrid-module__eu5Cwq__cardInfo style=view-transition-name:work-info-hy-house;view-transition-class:work-info>
+                  <span .WorkGrid-module__eu5Cwq__cardTitle>
+                    TXT: HY House
+                  <div .WorkGrid-module__eu5Cwq__cardMeta>
+                    <span .WorkGrid-module__eu5Cwq__cardTag>
+                      TXT: Residential
+                    <span .WorkGrid-module__eu5Cwq__cardDot>
+                      TXT: ·
+                    <span .WorkGrid-module__eu5Cwq__cardTag>
+                      TXT: 2023
+                    <span .WorkGrid-module__eu5Cwq__cardLocation>
+                      TXT: Sentul, Bogor
+            <div .WorkGrid-module__eu5Cwq__stripItem . style=--grow:0.75;--sr-y:40px;--sr-delay:80ms>
+              <a .WorkGrid-module__eu5Cwq__card href=/work/tv-house>
+                <div .WorkGrid-module__eu5Cwq__imageWrap . style=view-transition-name:work-image-tv-house;view-transition-class:work-image>
+                  <div .FadeImage-module__MlDS8a__wrapper .FadeImage-module__MlDS8a__fill .>
+                    <div .FadeImage-module__MlDS8a__placeholder>
+                    <img .FadeImage-module__MlDS8a__image style=position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;color:tra>
+                <div .WorkGrid-module__eu5Cwq__cardInfo style=view-transition-name:work-info-tv-house;view-transition-class:work-info>
+                  <span .WorkGrid-module__eu5Cwq__cardTitle>
+                    TXT: TV House
+                  <div .WorkGrid-module__eu5Cwq__cardMeta>
+                    <span .WorkGrid-module__eu5Cwq__cardTag>
+                      TXT: Residential
+                    <span .WorkGrid-module__eu5Cwq__cardDot>
+                      TXT: ·
+                    <span .WorkGrid-module__eu5Cwq__cardTag>
+                      TXT: 2026
+                    <span .WorkGrid-module__eu5Cwq__cardLocation>
+                      TXT: Pejaten, Jakarta Selatan
+            <div .WorkGrid-module__eu5Cwq__stripItem . style=--grow:1.2;--sr-y:40px;--sr-delay:160ms>
+              <a .WorkGrid-module__eu5Cwq__card href=/work/louver-house>
+                <div .WorkGrid-module__eu5Cwq__imageWrap . style=view-transition-name:work-image-louver-house;view-transition-class:work-image>
+                  <div .FadeImage-module__MlDS8a__wrapper .FadeImage-module__MlDS8a__fill .>
+                    <div .FadeImage-module__MlDS8a__placeholder>
+                    <img .FadeImage-module__MlDS8a__image style=position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;color:tra>
+                <div .WorkGrid-module__eu5Cwq__cardInfo style=view-transition-name:work-info-louver-house;view-transition-class:work-info>
+                  <span .WorkGrid-module__eu5Cwq__cardTitle>
+                    TXT: Louver House
+                  <div .WorkGrid-module__eu5Cwq__cardMeta>
+                    <span .WorkGrid-module__eu5Cwq__cardTag>
+                      TXT: Residential
+                    <span .WorkGrid-module__eu5Cwq__cardDot>
+                      TXT: ·
+                    <span .WorkGrid-module__eu5Cwq__cardTag>
+                      TXT: 2024
+                    <span .WorkGrid-module__eu5Cwq__cardLocation>
+                      TXT: Giriloka, BSD
+          <div .WorkGrid-module__eu5Cwq__strip>
+            <div .WorkGrid-module__eu5Cwq__stripItem . style=--grow:1.6;--sr-y:40px;--sr-delay:0ms>
+              <a .WorkGrid-module__eu5Cwq__card href=/work/nsb-ps>
+                <div .WorkGrid-module__eu5Cwq__imageWrap . style=view-transition-name:work-image-nsb-ps;view-transition-class:work-image>
+                  <div .FadeImage-module__MlDS8a__wrapper .FadeImage-module__MlDS8a__fill .>
+                    <div .FadeImage-module__MlDS8a__placeholder>
+                    <img .FadeImage-module__MlDS8a__image style=position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;color:tra>
+                <div .WorkGrid-module__eu5Cwq__cardInfo style=view-transition-name:work-info-nsb-ps;view-transition-class:work-info>
+                  <span .WorkGrid-module__eu5Cwq__cardTitle>
+                    TXT: NSB PS
+                  <div .WorkGrid-module__eu5Cwq__cardMeta>
+                    <span .WorkGrid-module__eu5Cwq__cardTag>
+                      TXT: Commercial
+                    <span .WorkGrid-module__eu5Cwq__cardDot>
+                      TXT: ·
+                    <span .WorkGrid-module__eu5Cwq__cardTag>
+                      TXT: 2024
+                    <span .WorkGrid-module__eu5Cwq__cardLocation>
+                      TXT: Plaza Senayan, Jakarta Pusat
+            <div .WorkGrid-module__eu5Cwq__stripItem . style=--grow:2;--sr-y:40px;--sr-delay:80ms>
+              <a .WorkGrid-module__eu5Cwq__card href=/work/fr-house>
+                <div .WorkGrid-module__eu5Cwq__imageWrap . style=view-transition-name:work-image-fr-house;view-transition-class:work-image>
+                  <div .FadeImage-module__MlDS8a__wrapper .FadeImage-module__MlDS8a__fill .>
+                    <div .FadeImage-module__MlDS8a__placeholder>
+                    <img .FadeImage-module__MlDS8a__image style=position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;color:tra>
+                <div .WorkGrid-module__eu5Cwq__cardInfo style=view-transition-name:work-info-fr-house;view-transition-class:work-info>
+                  <span .WorkGrid-module__eu5Cwq__cardTitle>
+                    TXT: FR House
+                  <div .WorkGrid-module__eu5Cwq__cardMeta>
+                    <span .WorkGrid-module__eu5Cwq__cardTag>
+                      TXT: Residential
+                    <span .WorkGrid-module__eu5Cwq__cardDot>
+                      TXT: ·
+                    <span .WorkGrid-module__eu5Cwq__cardTag>
+                      TXT: 2026
+                    <span .WorkGrid-module__eu5Cwq__cardLocation>
+                      TXT: Bekasi
+            <div .WorkGrid-module__eu5Cwq__stripItem . style=--grow:0.85;--sr-y:40px;--sr-delay:160ms>
+              <a .WorkGrid-module__eu5Cwq__card href=/work/k-villa>
+                <div .WorkGrid-module__eu5Cwq__imageWrap . style=view-transition-name:work-image-k-villa;view-transition-class:work-image>
+                  <div .FadeImage-module__MlDS8a__wrapper .FadeImage-module__MlDS8a__fill .>
+                    <div .FadeImage-module__MlDS8a__placeholder>
+                    <img .FadeImage-module__MlDS8a__image style=position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;color:tra>
+                <div .WorkGrid-module__eu5Cwq__cardInfo style=view-transition-name:work-info-k-villa;view-transition-class:work-info>
+                  <span .WorkGrid-module__eu5Cwq__cardTitle>
+                    TXT: K Villa
+                  <div .WorkGrid-module__eu5Cwq__cardMeta>
+                    <span .WorkGrid-module__eu5Cwq__cardTag>
+                      TXT: Residential
+                    <span .WorkGrid-module__eu5Cwq__cardDot>
+                      TXT: ·
+                    <span .WorkGrid-module__eu5Cwq__cardTag>
+                      TXT: 2025
+                    <span .WorkGrid-module__eu5Cwq__cardLocation>
+                      TXT: Ubud, Bali
+  TXT: !--$--
+  TXT: !--/$--
+<footer .Footer-module__Grjkva__footer>
+  <div .Footer-module__Grjkva__inner>
+    <div .Footer-module__Grjkva__cta>
+      <div .Footer-module__Grjkva__ctaText>
+        <span .Footer-module__Grjkva__kicker>
+          TXT: Start a project
+        <a .Footer-module__Grjkva__ctaLink href=/contact>
+          <span>
+            TXT: Tell us about your site
+          <svg .Footer-module__Grjkva__ctaArrow>
+          <path>
+  <span .Footer-module__Grjkva__markWrap>
+    <svg>
+    <path>
+<div .Footer-module__Grjkva__rule>
+<div .Footer-module__Grjkva__cols>
+  <nav .Footer-module__Grjkva__col>
+    <span .Footer-module__Grjkva__colLabel>
+      TXT: Index
+    <a .Footer-module__Grjkva__colLink href=/work>
+      TXT: Work
+    <a .Footer-module__Grjkva__colLink href=/studio>
+      TXT: Studio
+    <a .Footer-module__Grjkva__colLink href=/process>
+      TXT: Process
+    <a .Footer-module__Grjkva__colLink href=/elements>
+      TXT: Elements
+    <a .Footer-module__Grjkva__colLink href=/services>
+      TXT: Services
+    <a .Footer-module__Grjkva__colLink href=/press>
+      TXT: Press
+    <a .Footer-module__Grjkva__colLink href=/contact>
+      TXT: Contact
+  <div .Footer-module__Grjkva__col>
+    <span .Footer-module__Grjkva__colLabel>
+      TXT: Studio
+    <address .Footer-module__Grjkva__address>
+      TXT: BSD, Tangerang Selatan
+      <br>
+      TXT: By appointment
+  <div .Footer-module__Grjkva__col>
+    <span .Footer-module__Grjkva__colLabel>
+      TXT: Connect
+    <a .Footer-module__Grjkva__colLink href=mailto:contact.senawastudio@gmail.com>
+      TXT: contact.senawastudio
+      <wbr>
+        TXT: @gmail.com
+      <a .Footer-module__Grjkva__colLink href=tel:+6281213547006>
+        TXT: +62 812 1354 7006
+      <a .Footer-module__Grjkva__colLink href=https://www.instagram.com/senawa.studio/>
+        TXT: Instagram
+  <div .Footer-module__Grjkva__rule>
+  <div .Footer-module__Grjkva__bottom>
+    <span .Footer-module__Grjkva__fine>
+      TXT: ©
+      TXT: !-- --
+      TXT: 2026
+      TXT: !-- --
+      TXT: Senawa Studio
+    <span .Footer-module__Grjkva__fine>
+      TXT: Architecture &amp; Interior Design
+    <span .Footer-module__Grjkva__fine>
+      TXT: BSD, Tangerang Selatan
+<div .PageTransition-module__kKDxmW__shutter .>
+  <svg .PageTransition-module__kKDxmW__mark>
+  <path>
+<div .AwwwardsBadge-module___6FJsW__badge>
+  <a .AwwwardsBadge-module___6FJsW__link href=https://www.awwwards.com/sites/senawa>
+    <svg>
+    <path .js-color-bg>
+  <g .js-color-text>
+    <path>

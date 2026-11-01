@@ -1,0 +1,4 @@
+
+.ScrollReveal-module__ViwyzG__hidden{opacity:0;transform:translateY(var(--sr-y,40px))}
+.ScrollReveal-module__ViwyzG__visible{opacity:1;transition:opacity 1.2s cubic-bezier(.33, 1, .68, 1) var(--sr-delay,0s), transform 1.2s cubic-bezier(.33, 1, .68, 1) var(--sr-delay,0s);transform:translateY(0)}
+@media (prefers-reduced-motion:reduce){.ScrollReveal-module__ViwyzG__hidden,.ScrollReveal-module__ViwyzG__visible{opacity:1;transition:none;transform:none}}

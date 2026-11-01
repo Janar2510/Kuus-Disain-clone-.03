@@ -1,0 +1,9 @@
+
+.AwwwardsBadge-module___6FJsW__badge{z-index:var(--z-badge);position:fixed;top:50%;right:0;transform:translateY(-50%)}
+.AwwwardsBadge-module___6FJsW__link{transition:opacity var(--duration-quick) var(--ease-out);display:block}
+.AwwwardsBadge-module___6FJsW__link:hover{opacity:.85}
+.AwwwardsBadge-module___6FJsW__link svg{display:block}
+.AwwwardsBadge-module___6FJsW__link:focus-visible{outline-offset:-5px;outline:2px solid #fff}
+@media (max-width:1023px){.AwwwardsBadge-module___6FJsW__link svg{aspect-ratio:53.08/171.358;width:40px;height:auto}}
+@media (max-width:767px){.AwwwardsBadge-module___6FJsW__link svg{width:24px}.AwwwardsBadge-module___6FJsW__link:focus-visible{outline-offset:-4px}}
+@media (prefers-reduced-motion:reduce){.AwwwardsBadge-module___6FJsW__link{transition:none}}

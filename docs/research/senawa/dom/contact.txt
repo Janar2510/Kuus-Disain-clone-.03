@@ -1,0 +1,312 @@
+<button .Nav-module__bLoQaq__searchClose>
+  <span>
+<div .Nav-module__bLoQaq__searchWrap>
+  <div .Nav-module__bLoQaq__searchField>
+    <svg .Nav-module__bLoQaq__searchFieldIcon>
+    <circle>
+  <line>
+<input .Nav-module__bLoQaq__searchInput>
+<p .visually-hidden>
+<div .Nav-module__bLoQaq__searchContent>
+  <div .Nav-module__bLoQaq__searchListbox>
+    <div .Nav-module__bLoQaq__searchGroup>
+      <div .Nav-module__bLoQaq__searchSectLabel>
+        <span .Nav-module__bLoQaq__searchLbl>
+          TXT: Featured
+      <a .Nav-module__bLoQaq__searchItem . href=/work/aa-house>
+        <span .Nav-module__bLoQaq__searchArrow>
+          TXT: →
+        <span .Nav-module__bLoQaq__searchItemTitle>
+          TXT: AA House
+          <span .Nav-module__bLoQaq__searchItemLoc>
+            TXT: Bintaro
+        <span .Nav-module__bLoQaq__searchItemMeta>
+          TXT: Residential
+          TXT: !-- --
+          TXT: ·
+          TXT: !-- --
+          TXT: 2025
+      <a .Nav-module__bLoQaq__searchItem . href=/work/louver-house>
+        <span .Nav-module__bLoQaq__searchArrow>
+          TXT: →
+        <span .Nav-module__bLoQaq__searchItemTitle>
+          TXT: Louver House
+          <span .Nav-module__bLoQaq__searchItemLoc>
+            TXT: Giriloka
+        <span .Nav-module__bLoQaq__searchItemMeta>
+          TXT: Residential
+          TXT: !-- --
+          TXT: ·
+          TXT: !-- --
+          TXT: 2024
+      <a .Nav-module__bLoQaq__searchItem . href=/work/nsb-ps>
+        <span .Nav-module__bLoQaq__searchArrow>
+          TXT: →
+        <span .Nav-module__bLoQaq__searchItemTitle>
+          TXT: NSB PS
+          <span .Nav-module__bLoQaq__searchItemLoc>
+            TXT: Plaza Senayan
+        <span .Nav-module__bLoQaq__searchItemMeta>
+          TXT: Commercial
+          TXT: !-- --
+          TXT: ·
+          TXT: !-- --
+          TXT: 2024
+  <div .Nav-module__bLoQaq__searchGroup>
+    <div .Nav-module__bLoQaq__searchSectLabel>
+      <span .Nav-module__bLoQaq__searchLbl>
+        TXT: Browse by type
+    <div .Nav-module__bLoQaq__searchTypeWrap>
+      <button .Nav-module__bLoQaq__searchTypeCell>
+        <span .Nav-module__bLoQaq__searchTypeName>
+          TXT: Residential
+        <span .Nav-module__bLoQaq__searchTypeCount>
+          TXT: 07
+      <button .Nav-module__bLoQaq__searchTypeCell>
+        <span .Nav-module__bLoQaq__searchTypeName>
+          TXT: Commercial
+        <span .Nav-module__bLoQaq__searchTypeCount>
+          TXT: 01
+<div .Nav-module__bLoQaq__searchLegend>
+  <span .Nav-module__bLoQaq__searchLegendItem>
+    <kbd .Nav-module__bLoQaq__kbd>
+      TXT: ↑
+    <kbd .Nav-module__bLoQaq__kbd>
+      TXT: ↓
+    <b>
+      TXT: Navigate
+  <span .Nav-module__bLoQaq__searchLegendItem>
+    <kbd .Nav-module__bLoQaq__kbd>
+      TXT: ↵
+    <b>
+      TXT: Open
+  <span .Nav-module__bLoQaq__searchLegendItem>
+    <kbd .Nav-module__bLoQaq__kbd>
+      TXT: esc
+    <b>
+      TXT: Close
+<div>
+  <main .page-module__OSLHOG__main>
+    <div .container>
+      <div .page-module__OSLHOG__grid>
+        <header .page-module__OSLHOG__lead>
+          <span .page-module__OSLHOG__kicker>
+            TXT: Contact
+          <h1 .page-module__OSLHOG__title>
+            TXT: Let’s start
+            <br>
+            TXT: a conversation.
+          <p .page-module__OSLHOG__lede>
+            TXT: Tell us about your site, how you live, and what you are hoping for. Every note is read by one of us, and we reply within a couple of days.
+        <div .page-module__OSLHOG__formWrap>
+          <div style=--sr-y:24px;--sr-delay:80ms>
+            <form .page-module__OSLHOG__form .>
+              <p .page-module__OSLHOG__formNote>
+                TXT: Name, email and a few words are required.
+              <div .page-module__OSLHOG__pair>
+                <div .page-module__OSLHOG__field>
+                  <label .page-module__OSLHOG__fieldLabel>
+                    TXT: Name
+                    <span .page-module__OSLHOG__requiredMark>
+                      TXT: *
+                  <input .page-module__OSLHOG__input>
+                <div .page-module__OSLHOG__field>
+                  <label .page-module__OSLHOG__fieldLabel>
+                    TXT: Email
+                    <span .page-module__OSLHOG__requiredMark>
+                      TXT: *
+                  <input .page-module__OSLHOG__input>
+              <div .page-module__OSLHOG__group>
+                <p .page-module__OSLHOG__groupNote>
+                  TXT: About the project (optional)
+                <div .page-module__OSLHOG__pair>
+                  <div .page-module__OSLHOG__field>
+                    <label .page-module__OSLHOG__fieldLabel>
+                      TXT: Property type
+                    <div .CustomSelect-module__38KbJW__wrapper .>
+                      <input>
+                      <button .CustomSelect-module__38KbJW__trigger>
+                        <span .CustomSelect-module__38KbJW__triggerLabel>
+                          TXT: Select
+                        <svg .CustomSelect-module__38KbJW__chevron .>
+                        <path>
+              <div .page-module__OSLHOG__field>
+                <label .page-module__OSLHOG__fieldLabel>
+                  TXT: Scope
+                <div .CustomSelect-module__38KbJW__wrapper .>
+                  <input>
+                  <button .CustomSelect-module__38KbJW__trigger>
+                    <span .CustomSelect-module__38KbJW__triggerLabel>
+                      TXT: Select
+                    <svg .CustomSelect-module__38KbJW__chevron .>
+                    <path>
+        <div .page-module__OSLHOG__pair>
+          <div .page-module__OSLHOG__field>
+            <label .page-module__OSLHOG__fieldLabel>
+              TXT: Location
+            <input .page-module__OSLHOG__input>
+          <div .page-module__OSLHOG__field>
+            <label .page-module__OSLHOG__fieldLabel>
+              TXT: Approx. size (m²)
+            <input .page-module__OSLHOG__input>
+        <div .page-module__OSLHOG__pair>
+          <div .page-module__OSLHOG__field>
+            <label .page-module__OSLHOG__fieldLabel>
+              TXT: Timeline
+            <input .page-module__OSLHOG__input>
+          <div .page-module__OSLHOG__field>
+            <label .page-module__OSLHOG__fieldLabel>
+              TXT: Budget range
+            <div .CustomSelect-module__38KbJW__wrapper .>
+              <input>
+              <button .CustomSelect-module__38KbJW__trigger>
+                <span .CustomSelect-module__38KbJW__triggerLabel>
+                  TXT: Select
+                <svg .CustomSelect-module__38KbJW__chevron .>
+                <path>
+  <div .page-module__OSLHOG__field>
+    <label .page-module__OSLHOG__fieldLabel>
+      TXT: Your vision
+      <span .page-module__OSLHOG__requiredMark>
+        TXT: *
+    <p .page-module__OSLHOG__fieldHint>
+      TXT: The mood, how you live, any references from Pinterest or Instagram, and anything else on your mind.
+    <textarea .page-module__OSLHOG__input .page-module__OSLHOG__textarea>
+  <div .page-module__OSLHOG__hp>
+    <label>
+      TXT: Leave this field empty
+    <input>
+  <button .page-module__OSLHOG__submit>
+    <span>
+      TXT: Send enquiry
+    <svg .page-module__OSLHOG__submitArrow>
+    <path>
+<aside .page-module__OSLHOG__details>
+  <dl .page-module__OSLHOG__detailList>
+    <div .page-module__OSLHOG__detailBlock>
+      <dt .page-module__OSLHOG__detailLabel>
+        TXT: Studio
+      <dd .page-module__OSLHOG__detailValue>
+        <span .page-module__OSLHOG__detailLine>
+          TXT: BSD, Tangerang Selatan
+        <span .page-module__OSLHOG__detailLine>
+          TXT: By appointment
+    <div .page-module__OSLHOG__detailBlock>
+      <dt .page-module__OSLHOG__detailLabel>
+        TXT: New projects
+      <dd .page-module__OSLHOG__detailValue>
+        <a .page-module__OSLHOG__detailLink href=mailto:contact.senawastudio@gmail.com>
+          TXT: contact.senawastudio@gmail.com
+        <a .page-module__OSLHOG__detailLink href=tel:+6281213547006>
+          TXT: +62 812 1354 7006
+    <div .page-module__OSLHOG__detailBlock>
+      <dt .page-module__OSLHOG__detailLabel>
+        TXT: Hours
+      <dd .page-module__OSLHOG__detailValue>
+        <span .page-module__OSLHOG__detailLine>
+          TXT: Monday to Friday
+        <span .page-module__OSLHOG__detailLine>
+          TXT: 10.00 to 18.00 WIB
+<section .page-module__OSLHOG__faq>
+  <h2 .page-module__OSLHOG__faqHeading>
+    TXT: Common questions
+  <dl .page-module__OSLHOG__faqList>
+    <div .page-module__OSLHOG__faqItem>
+      <dt .page-module__OSLHOG__faqQ>
+        TXT: What does Senawa do?
+      <dd .page-module__OSLHOG__faqA>
+        TXT: Senawa is an architecture, interior, and furniture design studio. We design private houses, apartments, retail spaces, and villas, and carry a project from the first conversation through construction 
+    <div .page-module__OSLHOG__faqItem>
+      <dt .page-module__OSLHOG__faqQ>
+        TXT: Where is the studio based, and which areas do you serve?
+      <dd .page-module__OSLHOG__faqA>
+        TXT: The studio is based in BSD, Tangerang Selatan, in the Greater Jakarta area, and meets by appointment. Our work spans Jakarta, Tangerang, Depok, and Bogor, and reaches as far as Ubud, Bali.
+    <div .page-module__OSLHOG__faqItem>
+      <dt .page-module__OSLHOG__faqQ>
+        TXT: What kinds of projects do you take on?
+      <dd .page-module__OSLHOG__faqA>
+        TXT: Mostly residential: new houses, renovations, and apartment interiors. We also take on selected commercial work, such as retail and boutique spaces.
+    <div .page-module__OSLHOG__faqItem>
+      <dt .page-module__OSLHOG__faqQ>
+        TXT: How does a project start?
+      <dd .page-module__OSLHOG__faqA>
+        TXT: Send a note through the form or email contact.senawastudio@gmail.com. It begins with a conversation about your site, how you live, and what you are hoping for. From there the project moves through six
+    <div .page-module__OSLHOG__faqItem>
+      <dt .page-module__OSLHOG__faqQ>
+        TXT: How quickly do you reply?
+      <dd .page-module__OSLHOG__faqA>
+        TXT: Every enquiry is read personally by one of us, and we reply within a couple of days.
+TXT: !--$--
+TXT: !--/$--
+<footer .Footer-module__Grjkva__footer>
+  <div .Footer-module__Grjkva__inner>
+    <div .Footer-module__Grjkva__cta>
+      <div .Footer-module__Grjkva__ctaText>
+        <span .Footer-module__Grjkva__kicker>
+          TXT: Start a project
+        <a .Footer-module__Grjkva__ctaLink href=/contact>
+          <span>
+            TXT: Tell us about your site
+          <svg .Footer-module__Grjkva__ctaArrow>
+          <path>
+  <span .Footer-module__Grjkva__markWrap>
+    <svg>
+    <path>
+<div .Footer-module__Grjkva__rule>
+<div .Footer-module__Grjkva__cols>
+  <nav .Footer-module__Grjkva__col>
+    <span .Footer-module__Grjkva__colLabel>
+      TXT: Index
+    <a .Footer-module__Grjkva__colLink href=/work>
+      TXT: Work
+    <a .Footer-module__Grjkva__colLink href=/studio>
+      TXT: Studio
+    <a .Footer-module__Grjkva__colLink href=/process>
+      TXT: Process
+    <a .Footer-module__Grjkva__colLink href=/elements>
+      TXT: Elements
+    <a .Footer-module__Grjkva__colLink href=/services>
+      TXT: Services
+    <a .Footer-module__Grjkva__colLink href=/press>
+      TXT: Press
+    <a .Footer-module__Grjkva__colLink href=/contact>
+      TXT: Contact
+  <div .Footer-module__Grjkva__col>
+    <span .Footer-module__Grjkva__colLabel>
+      TXT: Studio
+    <address .Footer-module__Grjkva__address>
+      TXT: BSD, Tangerang Selatan
+      <br>
+      TXT: By appointment
+  <div .Footer-module__Grjkva__col>
+    <span .Footer-module__Grjkva__colLabel>
+      TXT: Connect
+    <a .Footer-module__Grjkva__colLink href=mailto:contact.senawastudio@gmail.com>
+      TXT: contact.senawastudio
+      <wbr>
+        TXT: @gmail.com
+      <a .Footer-module__Grjkva__colLink href=tel:+6281213547006>
+        TXT: +62 812 1354 7006
+      <a .Footer-module__Grjkva__colLink href=https://www.instagram.com/senawa.studio/>
+        TXT: Instagram
+  <div .Footer-module__Grjkva__rule>
+  <div .Footer-module__Grjkva__bottom>
+    <span .Footer-module__Grjkva__fine>
+      TXT: ©
+      TXT: !-- --
+      TXT: 2026
+      TXT: !-- --
+      TXT: Senawa Studio
+    <span .Footer-module__Grjkva__fine>
+      TXT: Architecture &amp; Interior Design
+    <span .Footer-module__Grjkva__fine>
+      TXT: BSD, Tangerang Selatan
+<div .PageTransition-module__kKDxmW__shutter .>
+  <svg .PageTransition-module__kKDxmW__mark>
+  <path>
+<div .AwwwardsBadge-module___6FJsW__badge>
+  <a .AwwwardsBadge-module___6FJsW__link href=https://www.awwwards.com/sites/senawa>
+    <svg>
+    <path .js-color-bg>
+  <g .js-color-text>
+    <path>

@@ -1,0 +1,437 @@
+<button .Nav-module__bLoQaq__searchClose>
+  <span>
+<div .Nav-module__bLoQaq__searchWrap>
+  <div .Nav-module__bLoQaq__searchField>
+    <svg .Nav-module__bLoQaq__searchFieldIcon>
+    <circle>
+  <line>
+<input .Nav-module__bLoQaq__searchInput>
+<p .visually-hidden>
+<div .Nav-module__bLoQaq__searchContent>
+  <div .Nav-module__bLoQaq__searchListbox>
+    <div .Nav-module__bLoQaq__searchGroup>
+      <div .Nav-module__bLoQaq__searchSectLabel>
+        <span .Nav-module__bLoQaq__searchLbl>
+          TXT: Featured
+      <a .Nav-module__bLoQaq__searchItem . href=/work/aa-house>
+        <span .Nav-module__bLoQaq__searchArrow>
+          TXT: →
+        <span .Nav-module__bLoQaq__searchItemTitle>
+          TXT: AA House
+          <span .Nav-module__bLoQaq__searchItemLoc>
+            TXT: Bintaro
+        <span .Nav-module__bLoQaq__searchItemMeta>
+          TXT: Residential
+          TXT: !-- --
+          TXT: ·
+          TXT: !-- --
+          TXT: 2025
+      <a .Nav-module__bLoQaq__searchItem . href=/work/louver-house>
+        <span .Nav-module__bLoQaq__searchArrow>
+          TXT: →
+        <span .Nav-module__bLoQaq__searchItemTitle>
+          TXT: Louver House
+          <span .Nav-module__bLoQaq__searchItemLoc>
+            TXT: Giriloka
+        <span .Nav-module__bLoQaq__searchItemMeta>
+          TXT: Residential
+          TXT: !-- --
+          TXT: ·
+          TXT: !-- --
+          TXT: 2024
+      <a .Nav-module__bLoQaq__searchItem . href=/work/nsb-ps>
+        <span .Nav-module__bLoQaq__searchArrow>
+          TXT: →
+        <span .Nav-module__bLoQaq__searchItemTitle>
+          TXT: NSB PS
+          <span .Nav-module__bLoQaq__searchItemLoc>
+            TXT: Plaza Senayan
+        <span .Nav-module__bLoQaq__searchItemMeta>
+          TXT: Commercial
+          TXT: !-- --
+          TXT: ·
+          TXT: !-- --
+          TXT: 2024
+  <div .Nav-module__bLoQaq__searchGroup>
+    <div .Nav-module__bLoQaq__searchSectLabel>
+      <span .Nav-module__bLoQaq__searchLbl>
+        TXT: Browse by type
+    <div .Nav-module__bLoQaq__searchTypeWrap>
+      <button .Nav-module__bLoQaq__searchTypeCell>
+        <span .Nav-module__bLoQaq__searchTypeName>
+          TXT: Residential
+        <span .Nav-module__bLoQaq__searchTypeCount>
+          TXT: 07
+      <button .Nav-module__bLoQaq__searchTypeCell>
+        <span .Nav-module__bLoQaq__searchTypeName>
+          TXT: Commercial
+        <span .Nav-module__bLoQaq__searchTypeCount>
+          TXT: 01
+<div .Nav-module__bLoQaq__searchLegend>
+  <span .Nav-module__bLoQaq__searchLegendItem>
+    <kbd .Nav-module__bLoQaq__kbd>
+      TXT: ↑
+    <kbd .Nav-module__bLoQaq__kbd>
+      TXT: ↓
+    <b>
+      TXT: Navigate
+  <span .Nav-module__bLoQaq__searchLegendItem>
+    <kbd .Nav-module__bLoQaq__kbd>
+      TXT: ↵
+    <b>
+      TXT: Open
+  <span .Nav-module__bLoQaq__searchLegendItem>
+    <kbd .Nav-module__bLoQaq__kbd>
+      TXT: esc
+    <b>
+      TXT: Close
+<div>
+  <main>
+    <h1 .visually-hidden>
+      TXT: Elements: An Index of Architectural Details
+    <div .ElementsExplorer-module__ubDeDW__root>
+      <div .ElementsExplorer-module__ubDeDW__stage>
+        <div .ElementsExplorer-module__ubDeDW__grid>
+        <div .ElementsExplorer-module__ubDeDW__crops>
+        <div .ElementsExplorer-module__ubDeDW__markers>
+          <button .ElementsExplorer-module__ubDeDW__marker style=left:50%;top:24.125%>
+            <span .ElementsExplorer-module__ubDeDW__dot>
+          <button .ElementsExplorer-module__ubDeDW__marker style=left:80.66666666666667%;top:34.25%>
+            <span .ElementsExplorer-module__ubDeDW__dot>
+          <button .ElementsExplorer-module__ubDeDW__marker style=left:65.33333333333334%;top:64.625%>
+            <span .ElementsExplorer-module__ubDeDW__dot>
+          <button .ElementsExplorer-module__ubDeDW__marker style=left:34.66666666666667%;top:54.5%>
+            <span .ElementsExplorer-module__ubDeDW__dot>
+          <button .ElementsExplorer-module__ubDeDW__marker style=left:19.333333333333336%;top:74.75%>
+            <span .ElementsExplorer-module__ubDeDW__dot>
+        <div .ElementsExplorer-module__ubDeDW__labels>
+          <span .ElementsExplorer-module__ubDeDW__tag style=left:53.833333333333336%;top:29.1875%>
+            TXT: (
+            TXT: !-- --
+            TXT: skylight
+            TXT: !-- --
+            TXT: )
+          <span .ElementsExplorer-module__ubDeDW__tag style=left:76.83333333333334%;top:39.3125%>
+            TXT: (
+            TXT: !-- --
+            TXT: edge
+            TXT: !-- --
+            TXT: )
+          <span .ElementsExplorer-module__ubDeDW__tag style=left:69.16666666666667%;top:69.6875%>
+            TXT: (
+            TXT: !-- --
+            TXT: roster
+            TXT: !-- --
+            TXT: )
+          <span .ElementsExplorer-module__ubDeDW__tag style=left:38.50000000000001%;top:59.5625%>
+            TXT: (
+            TXT: !-- --
+            TXT: inner courtyard
+            TXT: !-- --
+            TXT: )
+          <span .ElementsExplorer-module__ubDeDW__tag style=left:23.166666666666668%;top:79.8125%>
+            TXT: (
+            TXT: !-- --
+            TXT: wood
+            TXT: !-- --
+            TXT: )
+        <aside .ElementsExplorer-module__ubDeDW__panel>
+      <div .ElementsExplorer-module__ubDeDW__mobile>
+        <ul .ElementsExplorer-module__ubDeDW__mList>
+          <li .ElementsExplorer-module__ubDeDW__mItem>
+            <h2 .ElementsExplorer-module__ubDeDW__mHeading>
+              <button .ElementsExplorer-module__ubDeDW__mRow>
+                <span .ElementsExplorer-module__ubDeDW__mName>
+                  TXT: (
+                  TXT: !-- --
+                  TXT: skylight
+                  TXT: !-- --
+                  TXT: )
+                <span .ElementsExplorer-module__ubDeDW__mSign>
+            <div .ElementsExplorer-module__ubDeDW__mPanel .>
+              <div .ElementsExplorer-module__ubDeDW__mPanelInner>
+                <div .ElementsExplorer-module__ubDeDW__mStrip>
+                  <figure .ElementsExplorer-module__ubDeDW__mCrop>
+                    <img>
+                  <figure .ElementsExplorer-module__ubDeDW__mCrop>
+                    <img>
+                  <figure .ElementsExplorer-module__ubDeDW__mCrop>
+                    <img>
+                  <figure .ElementsExplorer-module__ubDeDW__mCrop>
+                    <img>
+                <p .ElementsExplorer-module__ubDeDW__mDesc>
+                  TXT: Light brought from above. A roof aperture pulls the sky into the plan and moves across the walls through the day, turning a stair or a corridor into a lantern.
+                <div .ElementsExplorer-module__ubDeDW__mRefsLabel>
+                  TXT: Seen in
+                <div .ElementsExplorer-module__ubDeDW__mRefs>
+                  <a .ElementsExplorer-module__ubDeDW__mRef href=/work/aa-house>
+                    <span .ElementsExplorer-module__ubDeDW__mRefI>
+                      TXT: 01
+                    <span>
+                      TXT: AA House
+                  <a .ElementsExplorer-module__ubDeDW__mRef href=/work/nsb-ps>
+                    <span .ElementsExplorer-module__ubDeDW__mRefI>
+                      TXT: 02
+                    <span>
+                      TXT: NSB PS
+                  <a .ElementsExplorer-module__ubDeDW__mRef href=/work/am-house>
+                    <span .ElementsExplorer-module__ubDeDW__mRefI>
+                      TXT: 03
+                    <span>
+                      TXT: AM House
+          <li .ElementsExplorer-module__ubDeDW__mItem>
+            <h2 .ElementsExplorer-module__ubDeDW__mHeading>
+              <button .ElementsExplorer-module__ubDeDW__mRow>
+                <span .ElementsExplorer-module__ubDeDW__mName>
+                  TXT: (
+                  TXT: !-- --
+                  TXT: edge
+                  TXT: !-- --
+                  TXT: )
+                <span .ElementsExplorer-module__ubDeDW__mSign>
+            <div .ElementsExplorer-module__ubDeDW__mPanel .>
+              <div .ElementsExplorer-module__ubDeDW__mPanelInner>
+                <div .ElementsExplorer-module__ubDeDW__mStrip>
+                  <figure .ElementsExplorer-module__ubDeDW__mCrop>
+                    <img>
+                  <figure .ElementsExplorer-module__ubDeDW__mCrop>
+                    <img>
+                  <figure .ElementsExplorer-module__ubDeDW__mCrop>
+                    <img>
+                  <figure .ElementsExplorer-module__ubDeDW__mCrop>
+                    <img>
+                  <figure .ElementsExplorer-module__ubDeDW__mCrop>
+                    <img>
+                <p .ElementsExplorer-module__ubDeDW__mDesc>
+                  TXT: The line where one thing becomes another: a roof meeting the sky, a floor meeting a garden, the shadow gap between two materials. We design the edge as the place a building is read.
+                <div .ElementsExplorer-module__ubDeDW__mRefsLabel>
+                  TXT: Seen in
+                <div .ElementsExplorer-module__ubDeDW__mRefs>
+                  <a .ElementsExplorer-module__ubDeDW__mRef href=/work/nsb-ps>
+                    <span .ElementsExplorer-module__ubDeDW__mRefI>
+                      TXT: 01
+                    <span>
+                      TXT: NSB PS
+                  <a .ElementsExplorer-module__ubDeDW__mRef href=/work/aa-house>
+                    <span .ElementsExplorer-module__ubDeDW__mRefI>
+                      TXT: 02
+                    <span>
+                      TXT: AA House
+                  <a .ElementsExplorer-module__ubDeDW__mRef href=/work/hy-house>
+                    <span .ElementsExplorer-module__ubDeDW__mRefI>
+                      TXT: 03
+                    <span>
+                      TXT: HY House
+                  <a .ElementsExplorer-module__ubDeDW__mRef href=/work/am-house>
+                    <span .ElementsExplorer-module__ubDeDW__mRefI>
+                      TXT: 04
+                    <span>
+                      TXT: AM House
+                  <a .ElementsExplorer-module__ubDeDW__mRef href=/work/tv-house>
+                    <span .ElementsExplorer-module__ubDeDW__mRefI>
+                      TXT: 05
+                    <span>
+                      TXT: TV House
+          <li .ElementsExplorer-module__ubDeDW__mItem>
+            <h2 .ElementsExplorer-module__ubDeDW__mHeading>
+              <button .ElementsExplorer-module__ubDeDW__mRow>
+                <span .ElementsExplorer-module__ubDeDW__mName>
+                  TXT: (
+                  TXT: !-- --
+                  TXT: roster
+                  TXT: !-- --
+                  TXT: )
+                <span .ElementsExplorer-module__ubDeDW__mSign>
+            <div .ElementsExplorer-module__ubDeDW__mPanel .>
+              <div .ElementsExplorer-module__ubDeDW__mPanelInner>
+                <div .ElementsExplorer-module__ubDeDW__mStrip>
+                  <figure .ElementsExplorer-module__ubDeDW__mCrop>
+                    <img>
+                  <figure .ElementsExplorer-module__ubDeDW__mCrop>
+                    <img>
+                  <figure .ElementsExplorer-module__ubDeDW__mCrop>
+                    <img>
+                  <figure .ElementsExplorer-module__ubDeDW__mCrop>
+                    <img>
+                <p .ElementsExplorer-module__ubDeDW__mDesc>
+                  TXT: A perforated screen of brick or block that filters light and air. The roster layers privacy while letting the house breathe in the tropical climate.
+                <div .ElementsExplorer-module__ubDeDW__mRefsLabel>
+                  TXT: Seen in
+                <div .ElementsExplorer-module__ubDeDW__mRefs>
+                  <a .ElementsExplorer-module__ubDeDW__mRef href=/work/am-house>
+                    <span .ElementsExplorer-module__ubDeDW__mRefI>
+                      TXT: 01
+                    <span>
+                      TXT: AM House
+                  <a .ElementsExplorer-module__ubDeDW__mRef href=/work/aa-house>
+                    <span .ElementsExplorer-module__ubDeDW__mRefI>
+                      TXT: 02
+                    <span>
+                      TXT: AA House
+          <li .ElementsExplorer-module__ubDeDW__mItem>
+            <h2 .ElementsExplorer-module__ubDeDW__mHeading>
+              <button .ElementsExplorer-module__ubDeDW__mRow>
+                <span .ElementsExplorer-module__ubDeDW__mName>
+                  TXT: (
+                  TXT: !-- --
+                  TXT: inner courtyard
+                  TXT: !-- --
+                  TXT: )
+                <span .ElementsExplorer-module__ubDeDW__mSign>
+            <div .ElementsExplorer-module__ubDeDW__mPanel .>
+              <div .ElementsExplorer-module__ubDeDW__mPanelInner>
+                <div .ElementsExplorer-module__ubDeDW__mStrip>
+                  <figure .ElementsExplorer-module__ubDeDW__mCrop>
+                    <img>
+                  <figure .ElementsExplorer-module__ubDeDW__mCrop>
+                    <img>
+                  <figure .ElementsExplorer-module__ubDeDW__mCrop>
+                    <img>
+                  <figure .ElementsExplorer-module__ubDeDW__mCrop>
+                    <img>
+                  <figure .ElementsExplorer-module__ubDeDW__mCrop>
+                    <img>
+                  <figure .ElementsExplorer-module__ubDeDW__mCrop>
+                    <img>
+                <p .ElementsExplorer-module__ubDeDW__mDesc>
+                  TXT: A room without a roof at the heart of the plan, organising the house around light and air. In the tropics, the courtyard is where daily life gathers.
+                <div .ElementsExplorer-module__ubDeDW__mRefsLabel>
+                  TXT: Seen in
+                <div .ElementsExplorer-module__ubDeDW__mRefs>
+                  <a .ElementsExplorer-module__ubDeDW__mRef href=/work/aa-house>
+                    <span .ElementsExplorer-module__ubDeDW__mRefI>
+                      TXT: 01
+                    <span>
+                      TXT: AA House
+                  <a .ElementsExplorer-module__ubDeDW__mRef href=/work/am-house>
+                    <span .ElementsExplorer-module__ubDeDW__mRefI>
+                      TXT: 02
+                    <span>
+                      TXT: AM House
+          <li .ElementsExplorer-module__ubDeDW__mItem>
+            <h2 .ElementsExplorer-module__ubDeDW__mHeading>
+              <button .ElementsExplorer-module__ubDeDW__mRow>
+                <span .ElementsExplorer-module__ubDeDW__mName>
+                  TXT: (
+                  TXT: !-- --
+                  TXT: wood
+                  TXT: !-- --
+                  TXT: )
+                <span .ElementsExplorer-module__ubDeDW__mSign>
+            <div .ElementsExplorer-module__ubDeDW__mPanel .>
+              <div .ElementsExplorer-module__ubDeDW__mPanelInner>
+                <div .ElementsExplorer-module__ubDeDW__mStrip>
+                  <figure .ElementsExplorer-module__ubDeDW__mCrop>
+                    <img>
+                  <figure .ElementsExplorer-module__ubDeDW__mCrop>
+                    <img>
+                  <figure .ElementsExplorer-module__ubDeDW__mCrop>
+                    <img>
+                  <figure .ElementsExplorer-module__ubDeDW__mCrop>
+                    <img>
+                  <figure .ElementsExplorer-module__ubDeDW__mCrop>
+                    <img>
+                <p .ElementsExplorer-module__ubDeDW__mDesc>
+                  TXT: Solid timber as structure, surface, and warmth. Oak, teak, and shingle bring texture and age into the work, grounding each room in something tactile.
+                <div .ElementsExplorer-module__ubDeDW__mRefsLabel>
+                  TXT: Seen in
+                <div .ElementsExplorer-module__ubDeDW__mRefs>
+                  <a .ElementsExplorer-module__ubDeDW__mRef href=/work/am-house>
+                    <span .ElementsExplorer-module__ubDeDW__mRefI>
+                      TXT: 01
+                    <span>
+                      TXT: AM House
+                  <a .ElementsExplorer-module__ubDeDW__mRef href=/work/btc-simatupang>
+                    <span .ElementsExplorer-module__ubDeDW__mRefI>
+                      TXT: 02
+                    <span>
+                      TXT: btc-simatupang
+                  <a .ElementsExplorer-module__ubDeDW__mRef href=/work/aa-house>
+                    <span .ElementsExplorer-module__ubDeDW__mRefI>
+                      TXT: 03
+                    <span>
+                      TXT: AA House
+                  <a .ElementsExplorer-module__ubDeDW__mRef href=/work/tv-house>
+                    <span .ElementsExplorer-module__ubDeDW__mRefI>
+                      TXT: 04
+                    <span>
+                      TXT: TV House
+                  <a .ElementsExplorer-module__ubDeDW__mRef href=/work/louver-house>
+                    <span .ElementsExplorer-module__ubDeDW__mRefI>
+                      TXT: 05
+                    <span>
+                      TXT: Louver House
+  TXT: !--$--
+  TXT: !--/$--
+<footer .Footer-module__Grjkva__footer>
+  <div .Footer-module__Grjkva__inner>
+    <div .Footer-module__Grjkva__cta>
+      <div .Footer-module__Grjkva__ctaText>
+        <span .Footer-module__Grjkva__kicker>
+          TXT: Start a project
+        <a .Footer-module__Grjkva__ctaLink href=/contact>
+          <span>
+            TXT: Tell us about your site
+          <svg .Footer-module__Grjkva__ctaArrow>
+          <path>
+  <span .Footer-module__Grjkva__markWrap>
+    <svg>
+    <path>
+<div .Footer-module__Grjkva__rule>
+<div .Footer-module__Grjkva__cols>
+  <nav .Footer-module__Grjkva__col>
+    <span .Footer-module__Grjkva__colLabel>
+      TXT: Index
+    <a .Footer-module__Grjkva__colLink href=/work>
+      TXT: Work
+    <a .Footer-module__Grjkva__colLink href=/studio>
+      TXT: Studio
+    <a .Footer-module__Grjkva__colLink href=/process>
+      TXT: Process
+    <a .Footer-module__Grjkva__colLink href=/elements>
+      TXT: Elements
+    <a .Footer-module__Grjkva__colLink href=/services>
+      TXT: Services
+    <a .Footer-module__Grjkva__colLink href=/press>
+      TXT: Press
+    <a .Footer-module__Grjkva__colLink href=/contact>
+      TXT: Contact
+  <div .Footer-module__Grjkva__col>
+    <span .Footer-module__Grjkva__colLabel>
+      TXT: Studio
+    <address .Footer-module__Grjkva__address>
+      TXT: BSD, Tangerang Selatan
+      <br>
+      TXT: By appointment
+  <div .Footer-module__Grjkva__col>
+    <span .Footer-module__Grjkva__colLabel>
+      TXT: Connect
+    <a .Footer-module__Grjkva__colLink href=mailto:contact.senawastudio@gmail.com>
+      TXT: contact.senawastudio
+      <wbr>
+        TXT: @gmail.com
+      <a .Footer-module__Grjkva__colLink href=tel:+6281213547006>
+        TXT: +62 812 1354 7006
+      <a .Footer-module__Grjkva__colLink href=https://www.instagram.com/senawa.studio/>
+        TXT: Instagram
+  <div .Footer-module__Grjkva__rule>
+  <div .Footer-module__Grjkva__bottom>
+    <span .Footer-module__Grjkva__fine>
+      TXT: ©
+      TXT: !-- --
+      TXT: 2026
+      TXT: !-- --
+      TXT: Senawa Studio
+    <span .Footer-module__Grjkva__fine>
+      TXT: Architecture &amp; Interior Design
+    <span .Footer-module__Grjkva__fine>
+      TXT: BSD, Tangerang Selatan
+<div .PageTransition-module__kKDxmW__shutter .>
+  <svg .PageTransition-module__kKDxmW__mark>
+  <path>
+<div .AwwwardsBadge-module___6FJsW__badge>
+  <a .AwwwardsBadge-module___6FJsW__link href=https://www.awwwards.com/sites/senawa>
+    <svg>
+    <path .js-color-bg>
+  <g .js-color-text>
+    <path>

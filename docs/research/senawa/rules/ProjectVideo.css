@@ -1,0 +1,6 @@
+}
+.ProjectVideo-module__NwGGCa__wrap{position:absolute;inset:0;overflow:hidden}
+.ProjectVideo-module__NwGGCa__poster{object-fit:cover}
+.ProjectVideo-module__NwGGCa__video{object-fit:cover;opacity:0;width:100%;height:100%;position:absolute;inset:0}
+.ProjectVideo-module__NwGGCa__video[data-shown]{opacity:1}
+@media (orientation:portrait){.ProjectVideo-module__NwGGCa__videoStage,.ProjectVideo-module__NwGGCa__posterStage{object-fit:contain}}
